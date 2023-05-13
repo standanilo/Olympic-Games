@@ -1,0 +1,7282 @@
+{
+ 	"_id" : ObjectId("6133408fc12ff5370c7720df"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Omar Fraile",
+ 	"country" : "Spain",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613340c2c12ff5370c7720e0"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Jesus Herrada",
+ 	"country" : "Spain",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613340cdc12ff5370c7720e1"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Gorka Izagirre",
+ 	"country" : "Spain",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613340dac12ff5370c7720e2"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Alejandro Valverde",
+ 	"country" : "Spain",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613340e3c12ff5370c7720e3"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Mavi Garcia",
+ 	"country" : "Spain",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61334100c12ff5370c7720e4"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Ane Santesteban",
+ 	"country" : "Spain",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613341bfc12ff5370c7720e5"),
+ 	"discipline" : [ 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Pablo Carreno",
+ 	"country" : "Spain",
+ 	"index" : 0,
+ 	"medals" : 1,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133426bc12ff5370c7720e6"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Sonja Vasic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61334277c12ff5370c7720e7"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Sasa Cadjo",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133427fc12ff5370c7720e8"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Nevena Jovanovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61334287c12ff5370c7720e9"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Jelena Brooks",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61334292c12ff5370c7720ea"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Dajana Butulija",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133429dc12ff5370c7720eb"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Aleksandra Crvendakic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613342a8c12ff5370c7720ec"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Yvonne Anderson",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613342b0c12ff5370c7720ed"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Dragana Stankovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613342b9c12ff5370c7720ee"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Ana Dabovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613342c0c12ff5370c7720ef"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Maja Skoric",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613342c7c12ff5370c7720f0"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Angela Dugalic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613342cfc12ff5370c7720f1"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Tina Krajisnik",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61334303c12ff5370c7720f2"),
+ 	"discipline" : [ 
+ 	"10m air pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Damir Mikec",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613343b8c12ff5370c7720f5"),
+ 	"discipline" : [ 
+ 	"10m air rifle", 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Milenko Sebic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613343dac12ff5370c7720f6"),
+ 	"discipline" : [ 
+ 	"50m 3 positions", 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Milutin Stefanovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613343ebc12ff5370c7720f7"),
+ 	"discipline" : [ 
+ 	"10m air rifle", 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Andrea Arsovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61334f43c12ff5370c7720f8"),
+ 	"discipline" : [ 
+ 	"10m air pistol", 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Zorana Arunovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61334fb2c12ff5370c7720f9"),
+ 	"discipline" : [ 
+ 	"kyorugi"
+ 	],
+ 	"sport" : "taekwondo",
+ 	"gender" : "female",
+ 	"fullname" : "Tijana Bogdanovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61334fb8c12ff5370c7720fa"),
+ 	"discipline" : [ 
+ 	"kyorugi"
+ 	],
+ 	"sport" : "taekwondo",
+ 	"gender" : "female",
+ 	"fullname" : "Milica Mandic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61334fccc12ff5370c7720fb"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Novak Djokovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 1,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335138c12ff5370c7720fc"),
+ 	"discipline" : [ 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Miomir Kecmanovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335142c12ff5370c7720fd"),
+ 	"discipline" : [ 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Ivana Jorovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613351d0c12ff5370c7720ff"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Nina Stojanovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335214c12ff5370c772100"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Gojko Pijetlovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133521bc12ff5370c772101"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Dusan Mandic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335221c12ff5370c772102"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Nikola Dedovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133522bc12ff5370c772103"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Sava Randjelovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335233c12ff5370c772104"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Djordje Lazic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335239c12ff5370c772105"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Dusko Pijetlovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335243c12ff5370c772106"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Strahinja Rasovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133524cc12ff5370c772107"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Milan Aleksic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335254c12ff5370c772108"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Nikola Jaksic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133525cc12ff5370c772109"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Filip Filipovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335265c12ff5370c77210a"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Andrija Prlainovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133526dc12ff5370c77210b"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Stefan Mitrovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335274c12ff5370c77210c"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Branislav Mitrovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613356bec12ff5370c77210d"),
+ 	"discipline" : [ 
+ 	"shot put"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Asmir Kolasinac",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613356d7c12ff5370c77210e"),
+ 	"discipline" : [ 
+ 	"shot put"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Armin Sinancevic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613356ecc12ff5370c77210f"),
+ 	"discipline" : [ 
+ 	"long jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Ivana Spanovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335701c12ff5370c772110"),
+ 	"discipline" : [ 
+ 	"discus throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Dragana Tomasevic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335716c12ff5370c772111"),
+ 	"discipline" : [ 
+ 	"javelin throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Marija Vucenovic",
+ 	"country" : "Serbia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613358cfc12ff5370c772112"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "German Chiaraviglio",
+ 	"country" : "Argentina",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335916c12ff5370c772113"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Eduardo Sepulveda",
+ 	"country" : "Argentina",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133593dc12ff5370c772114"),
+ 	"discipline" : [ 
+ 	"10m air rifle", 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Alexis Eberhardt",
+ 	"country" : "Argentina",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133596fc12ff5370c772115"),
+ 	"discipline" : [ 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Fernanda Russo",
+ 	"country" : "Argentina",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613359cbc12ff5370c772116"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Santiago Grassi",
+ 	"country" : "Argentina",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613359dfc12ff5370c772117"),
+ 	"discipline" : [ 
+ 	"kyorugi"
+ 	],
+ 	"sport" : "taekwondo",
+ 	"gender" : "male",
+ 	"fullname" : "Lucas Guzman",
+ 	"country" : "Argentina",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613359f0c12ff5370c772118"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Diego Schwartzman",
+ 	"country" : "Argentina",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335a08c12ff5370c772119"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Nadia Podoroska",
+ 	"country" : "Argentina",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335a43c12ff5370c77211a"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Rohan Browning",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335a57c12ff5370c77211b"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Alex Beck",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335a5dc12ff5370c77211c"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Steven Solomon",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335a68c12ff5370c77211d"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Hana Basic",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335a74c12ff5370c77211e"),
+ 	"discipline" : [ 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Riley Day",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335a7dc12ff5370c77211f"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Bendere Oboya",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335a95c12ff5370c772120"),
+ 	"discipline" : [ 
+ 	"long jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Henry Frayne",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335aa2c12ff5370c772121"),
+ 	"discipline" : [ 
+ 	"high jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Brandon Starc",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335aafc12ff5370c772122"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Kurtis Marschall",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335ab9c12ff5370c772123"),
+ 	"discipline" : [ 
+ 	"discus throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Matthew Denny",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335ac6c12ff5370c772124"),
+ 	"discipline" : [ 
+ 	"long jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Brooke Stratton",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335ad5c12ff5370c772125"),
+ 	"discipline" : [ 
+ 	"high jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Nicola McDermott",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335addc12ff5370c772126"),
+ 	"discipline" : [ 
+ 	"high jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Eleanor Patterson",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335aeac12ff5370c772127"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Nina Kennedy",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335af3c12ff5370c772128"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Liz Parnov",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335b00c12ff5370c772129"),
+ 	"discipline" : [ 
+ 	"discus throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Dani Stevens",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335b0ec12ff5370c77212a"),
+ 	"discipline" : [ 
+ 	"javelin throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Kelsey-Lee Barber",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335b15c12ff5370c77212b"),
+ 	"discipline" : [ 
+ 	"javelin throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Mackenzie Little",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335b20c12ff5370c77212c"),
+ 	"discipline" : [ 
+ 	"javelin throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Kathryn Mitchell",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335b38c12ff5370c77212d"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Luke Durbridge",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335b42c12ff5370c77212e"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Lucas Hamilton",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335b49c12ff5370c77212f"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Richie Porte",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335b53c12ff5370c772130"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Grace Brown",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335b5bc12ff5370c772131"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Tiffany Cromwell",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335b62c12ff5370c772132"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Sarah Gigante",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335b95c12ff5370c772133"),
+ 	"discipline" : [ 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Sergei Evglevski",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335ba1c12ff5370c772134"),
+ 	"discipline" : [ 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Alex Hoberg",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335badc12ff5370c772135"),
+ 	"discipline" : [ 
+ 	"10m air pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Daniel Repacholi",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335bb6c12ff5370c772136"),
+ 	"discipline" : [ 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Jack Rossiter",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335bc8c12ff5370c772137"),
+ 	"discipline" : [ 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Elise Collier",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335bd2c12ff5370c772138"),
+ 	"discipline" : [ 
+ 	"10m air pistol", 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Elena Galiabovitch",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335bfec12ff5370c772139"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "David Morgan",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335c0ec12ff5370c77213a"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Thomas Neill",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335c20c12ff5370c77213b"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Elijah Winnington",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335c37c12ff5370c77213c"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Emma McKeon",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335c48c12ff5370c77213d"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Brianna Throssell",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335c53c12ff5370c77213e"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Ariarne Titmus",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335c5cc12ff5370c77213f"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Madison Wilson",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335c77c12ff5370c772140"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Max Purcell",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335c88c12ff5370c772141"),
+ 	"discipline" : [ 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Ajla Tomljanović",
+ 	"country" : "Australia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335d18c12ff5370c772142"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Wout Van Aert",
+ 	"country" : "Belgium",
+ 	"index" : 0,
+ 	"medals" : 1,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335db5c12ff5370c772144"),
+ 	"discipline" : [ 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Robin Vanderbemden",
+ 	"country" : "Belgium",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335dc1c12ff5370c772145"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Kevin Borlée",
+ 	"country" : "Belgium",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335dc9c12ff5370c772146"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Jonathan Sacoor",
+ 	"country" : "Belgium",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335dd5c12ff5370c772147"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Cynthia Bolingo",
+ 	"country" : "Belgium",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335de0c12ff5370c772148"),
+ 	"discipline" : [ 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Imke Vervaet",
+ 	"country" : "Belgium",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335df9c12ff5370c772149"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Remco Evenepoel",
+ 	"country" : "Belgium",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335e05c12ff5370c77214a"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Lotte Kopecky",
+ 	"country" : "Belgium",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335e1ec12ff5370c77214b"),
+ 	"discipline" : [ 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Jessie Kaps",
+ 	"country" : "Belgium",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335e5ec12ff5370c77214c"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Louis Croenen",
+ 	"country" : "Belgium",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335e82c12ff5370c77214e"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Alison Van Uytvanck",
+ 	"country" : "Belgium",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335f28c12ff5370c77214f"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Fernando Scheffer",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 1,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335f38c12ff5370c772150"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Thiago Braz",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335f45c12ff5370c772151"),
+ 	"discipline" : [ 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Laura Pigossi",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335f5cc12ff5370c772152"),
+ 	"discipline" : [ 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Luisa Stefani",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335f66c12ff5370c772153"),
+ 	"discipline" : [ 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "João Menezes",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335f8bc12ff5370c772154"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Paulo André de Oliveira",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335f98c12ff5370c772155"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Lucas Carvalho",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335fa6c12ff5370c772156"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Rosângela Santos",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335fd9c12ff5370c772157"),
+ 	"discipline" : [ 
+ 	"10m air pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Felipe Almeida Wu",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61335ff9c12ff5370c772158"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Murilo Sartori",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336006c12ff5370c772159"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Matheus Gonche",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133600ec12ff5370c77215a"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Vinicius Lanza",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336219c12ff5370c77215b"),
+ 	"discipline" : [ 
+ 	"10m air pistol", 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Antoaneta Kostadinova",
+ 	"country" : "Bulgaria",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133622ec12ff5370c77215c"),
+ 	"discipline" : [ 
+ 	"100m", 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Inna Eftimova",
+ 	"country" : "Bulgaria",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336240c12ff5370c77215d"),
+ 	"discipline" : [ 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Ivet Lalova-Collio",
+ 	"country" : "Bulgaria",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336251c12ff5370c77215e"),
+ 	"discipline" : [ 
+ 	"high jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Tihomir Ivanov",
+ 	"country" : "Bulgaria",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133625ac12ff5370c77215f"),
+ 	"discipline" : [ 
+ 	"high jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Mirela Demireva",
+ 	"country" : "Bulgaria",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133628dc12ff5370c772160"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Antani Ivanov",
+ 	"country" : "Bulgaria",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336299c12ff5370c772161"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Josif Miladinov",
+ 	"country" : "Bulgaria",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336352c12ff5370c772162"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Maggie Mac Neil",
+ 	"country" : "Canada",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336362c12ff5370c772163"),
+ 	"discipline" : [ 
+ 	"200m", 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Andre De Grasse",
+ 	"country" : "Canada",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336380c12ff5370c772164"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Penny Oleksiak",
+ 	"country" : "Canada",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613363f0c12ff5370c772165"),
+ 	"discipline" : [ 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Aaron Brown",
+ 	"country" : "Canada",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613363ffc12ff5370c772166"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Khamica Bingham",
+ 	"country" : "Canada",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336408c12ff5370c772167"),
+ 	"discipline" : [ 
+ 	"100m", 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Crystal Emmanuel",
+ 	"country" : "Canada",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133641dc12ff5370c772168"),
+ 	"discipline" : [ 
+ 	"high jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Django Lovett",
+ 	"country" : "Canada",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336437c12ff5370c772169"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Michael Woods",
+ 	"country" : "Canada",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336441c12ff5370c77216a"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Karol-Ann Canuel",
+ 	"country" : "Canada",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336478c12ff5370c77216c"),
+ 	"discipline" : [ 
+ 	"10m air pistol", 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Lynda Kiejko",
+ 	"country" : "Canada",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336492c12ff5370c77216d"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Joshua Liendo",
+ 	"country" : "Canada",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613364a7c12ff5370c77216e"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Katerine Savard",
+ 	"country" : "Canada",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613364bbc12ff5370c77216f"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Félix Auger-Aliassime",
+ 	"country" : "Canada",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613364cec12ff5370c772170"),
+ 	"discipline" : [ 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Leylah Annie Fernandez",
+ 	"country" : "Canada",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133651bc12ff5370c772171"),
+ 	"discipline" : [ 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Yang Qian",
+ 	"country" : "China",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336540c12ff5370c772172"),
+ 	"discipline" : [ 
+ 	"shot put"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Gong Lijiao",
+ 	"country" : "China",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336551c12ff5370c772173"),
+ 	"discipline" : [ 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Zhang Changhong",
+ 	"country" : "China",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336561c12ff5370c772174"),
+ 	"discipline" : [ 
+ 	"javelin throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Liu Shiying",
+ 	"country" : "China",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133656ec12ff5370c772175"),
+ 	"discipline" : [ 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Sheng Lihao",
+ 	"country" : "China",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133657cc12ff5370c772176"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Zhang Yufei",
+ 	"country" : "China",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613365a1c12ff5370c772177"),
+ 	"discipline" : [ 
+ 	"10m air pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Pang Wei",
+ 	"country" : "China",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613365a6c12ff5370c772178"),
+ 	"discipline" : [ 
+ 	"10m air pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Jiang Ranxin",
+ 	"country" : "China",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613365b8c12ff5370c772179"),
+ 	"discipline" : [ 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Yang  Haoran",
+ 	"country" : "China",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613365f5c12ff5370c77217a"),
+ 	"discipline" : [ 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Xiao Jiaruixuan",
+ 	"country" : "China",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336603c12ff5370c77217b"),
+ 	"discipline" : [ 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Li Yuehong",
+ 	"country" : "China",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336627c12ff5370c77217c"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Su Bingtian",
+ 	"country" : "China",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133663cc12ff5370c77217d"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Ge Manqi",
+ 	"country" : "China",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336657c12ff5370c77217e"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Wang Ruidong",
+ 	"country" : "China",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613366acc12ff5370c77217f"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Yang Junxuan",
+ 	"country" : "China",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336716c12ff5370c772180"),
+ 	"discipline" : [ 
+ 	"kyorugi"
+ 	],
+ 	"sport" : "taekwondo",
+ 	"gender" : "female",
+ 	"fullname" : "Matea Jelic",
+ 	"country" : "Croatia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336722c12ff5370c772181"),
+ 	"discipline" : [ 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Mate Pavic",
+ 	"country" : "Croatia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336729c12ff5370c772182"),
+ 	"discipline" : [ 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Nikola Mektic",
+ 	"country" : "Croatia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336733c12ff5370c772183"),
+ 	"discipline" : [ 
+ 	"double", 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Marin Cilic",
+ 	"country" : "Croatia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336739c12ff5370c772184"),
+ 	"discipline" : [ 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Ivan Dodig",
+ 	"country" : "Croatia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336746c12ff5370c772185"),
+ 	"discipline" : [ 
+ 	"kyorugi"
+ 	],
+ 	"sport" : "taekwondo",
+ 	"gender" : "male",
+ 	"fullname" : "Toni Kanaet",
+ 	"country" : "Croatia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133675dc12ff5370c772186"),
+ 	"discipline" : [ 
+ 	"discus throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Sandra Perkovic",
+ 	"country" : "Croatia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133676fc12ff5370c772187"),
+ 	"discipline" : [ 
+ 	"high jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Ana Simic",
+ 	"country" : "Croatia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133677cc12ff5370c772188"),
+ 	"discipline" : [ 
+ 	"discus throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Marija Tolj",
+ 	"country" : "Croatia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336790c12ff5370c772189"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Josip Rumac",
+ 	"country" : "Croatia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613367a7c12ff5370c77218a"),
+ 	"discipline" : [ 
+ 	"10m air rifle", 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Petar Gorsa",
+ 	"country" : "Croatia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613367b1c12ff5370c77218b"),
+ 	"discipline" : [ 
+ 	"50m 3 positions", 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Miran Maričić",
+ 	"country" : "Croatia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613367c3c12ff5370c77218c"),
+ 	"discipline" : [ 
+ 	"10m air rifle", 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Snjezana Pejcic",
+ 	"country" : "Croatia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613367d7c12ff5370c77218d"),
+ 	"discipline" : [ 
+ 	"200m freestyle", 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Nikola Miljenic",
+ 	"country" : "Croatia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133682fc12ff5370c77218e"),
+ 	"discipline" : [ 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Donna Vekic",
+ 	"country" : "Croatia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133686ec12ff5370c77218f"),
+ 	"discipline" : [ 
+ 	"long jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Juan Miguel Echevarria",
+ 	"country" : "Cuba",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336880c12ff5370c772190"),
+ 	"discipline" : [ 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Leuris Pupo",
+ 	"country" : "Cuba",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336890c12ff5370c772191"),
+ 	"discipline" : [ 
+ 	"long jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Maykel Masso",
+ 	"country" : "Cuba",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133689dc12ff5370c772192"),
+ 	"discipline" : [ 
+ 	"discus throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Yaime Perez",
+ 	"country" : "Cuba",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613368b2c12ff5370c772193"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Roxana Gomez",
+ 	"country" : "Cuba",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613368c7c12ff5370c772194"),
+ 	"discipline" : [ 
+ 	"high jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Luis Zayas",
+ 	"country" : "Cuba",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613368d9c12ff5370c772195"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Yarisley Silva",
+ 	"country" : "Cuba",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613368edc12ff5370c772196"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Arlenis Sierra",
+ 	"country" : "Cuba",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336905c12ff5370c772197"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Luis Vega Torres",
+ 	"country" : "Cuba",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336942c12ff5370c772198"),
+ 	"discipline" : [ 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Jan Jirka",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133694cc12ff5370c772199"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Pavel Maslak",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336959c12ff5370c77219a"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Barbora Malikova",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336961c12ff5370c77219b"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Lada Vondrova",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133696fc12ff5370c77219c"),
+ 	"discipline" : [ 
+ 	"javelin throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Jakub Vadlejch",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133697fc12ff5370c77219d"),
+ 	"discipline" : [ 
+ 	"javelin throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Vitezslav Vesely",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336990c12ff5370c77219e"),
+ 	"discipline" : [ 
+ 	"javelin throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Nikola Ogrodnikova",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133699ac12ff5370c77219f"),
+ 	"discipline" : [ 
+ 	"javelin throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Irena Gillarova",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613369aec12ff5370c7721a0"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Michael Kukrle",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613369cac12ff5370c7721a1"),
+ 	"discipline" : [ 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "David Hrckulak",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613369e2c12ff5370c7721a2"),
+ 	"discipline" : [ 
+ 	"10m air rifle", 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Jiri Privratsky",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613369f8c12ff5370c7721a3"),
+ 	"discipline" : [ 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Petr Nymbursky",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336a07c12ff5370c7721a4"),
+ 	"discipline" : [ 
+ 	"50m 3 positions", 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Nikola Sarounova",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336a26c12ff5370c7721a5"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Jan Sefl",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336a36c12ff5370c7721a6"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Barbora Seemanova",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336a48c12ff5370c7721a7"),
+ 	"discipline" : [ 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Tomas Machac",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336a5cc12ff5370c7721a8"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Marketa Vondrousova",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336a72c12ff5370c7721a9"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Barbora Krejcikova",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336a86c12ff5370c7721aa"),
+ 	"discipline" : [ 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Katerina Siniakova",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336a9ac12ff5370c7721ab"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Karolina Pliskova",
+ 	"country" : "Czech",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336b79c12ff5370c7721ac"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Kojo Musah",
+ 	"country" : "Denmark",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336b8ac12ff5370c7721ad"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Kasper Asgreen",
+ 	"country" : "Denmark",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336b94c12ff5370c7721ae"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Jakob Fuglsang",
+ 	"country" : "Denmark",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336ba1c12ff5370c7721af"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Cecilie Uttrup Ludwig",
+ 	"country" : "Denmark",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336bb6c12ff5370c7721b0"),
+ 	"discipline" : [ 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Steffen Olsen",
+ 	"country" : "Denmark",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336bc0c12ff5370c7721b1"),
+ 	"discipline" : [ 
+ 	"50m 3 positions", 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Rikke Ibsen",
+ 	"country" : "Denmark",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336bcdc12ff5370c7721b2"),
+ 	"discipline" : [ 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Anna Nielsen",
+ 	"country" : "Denmark",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336be0c12ff5370c7721b3"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Emilie Beckmann",
+ 	"country" : "Denmark",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336c36c12ff5370c7721b4"),
+ 	"discipline" : [ 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Jean Quiquampoix",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336c58c12ff5370c7721b5"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Jimmy Vicaut",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336c63c12ff5370c7721b6"),
+ 	"discipline" : [ 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Gemina Joseph",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336c6dc12ff5370c7721b7"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Amandine Brossier",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336c7cc12ff5370c7721b8"),
+ 	"discipline" : [ 
+ 	"long jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Augustin Bey",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336c88c12ff5370c7721b9"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Renaud  Lavillenie",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336ca1c12ff5370c7721ba"),
+ 	"discipline" : [ 
+ 	"discus throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Lolassonn Djouhan",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336cbac12ff5370c7721bb"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Remi Cavagna",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336cc3c12ff5370c7721bc"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "David Gaudu",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 1,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336ccbc12ff5370c7721bd"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Juliette Labous",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336d08c12ff5370c7721be"),
+ 	"discipline" : [ 
+ 	"10m air rifle", 
+ 	"10m air pistol", 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Celine Goberville",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336d1bc12ff5370c7721bf"),
+ 	"discipline" : [ 
+ 	"25m low caliber pistol", 
+ 	"10m air pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Mathilde Lamolle",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336d2cc12ff5370c7721c0"),
+ 	"discipline" : [ 
+ 	"10m air rifle", 
+ 	"25m low caliber pistol", 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Oceanne Muller",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336d40c12ff5370c7721c1"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Jonathan Atsu",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336d4ec12ff5370c7721c2"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Mehdy Metella",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336d5cc12ff5370c7721c3"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Jordan Pothain",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336d6dc12ff5370c7721c4"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Charlotte Bonnet",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336d79c12ff5370c7721c5"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Marie Wattel",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336d88c12ff5370c7721c6"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Jeremy Chardy",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336d9cc12ff5370c7721c7"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Gael Monfils",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336daac12ff5370c7721c8"),
+ 	"discipline" : [ 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Gilles Simon",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336db1c12ff5370c7721c9"),
+ 	"discipline" : [ 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Ugo Humbert",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336dc7c12ff5370c7721ca"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Fiona Ferro",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336ddac12ff5370c7721cb"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Alize Cornet",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336decc12ff5370c7721cc"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Caroline Garcia",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61336df6c12ff5370c7721cd"),
+ 	"discipline" : [ 
+ 	"double", 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Kristina Mladenovic",
+ 	"country" : "France",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133731fc12ff5370c7721ce"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Alexander Zverev",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133733dc12ff5370c7721cf"),
+ 	"discipline" : [ 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Dominik Koepfer",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133734ac12ff5370c7721d0"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Jan-Lennard Struff",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133735ac12ff5370c7721d1"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Anna-Lena Friedsam",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337373c12ff5370c7721d2"),
+ 	"discipline" : [ 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Steven Muller",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133737bc12ff5370c7721d3"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Marvin Schlegel",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337389c12ff5370c7721d4"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Alexandra Burghardt",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337395c12ff5370c7721d5"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Corinna Schwab",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613373a7c12ff5370c7721d6"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Nikias Arndt",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613373b4c12ff5370c7721d7"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Maximilian Schachmann",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613373bcc12ff5370c7721d8"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Emanuel Buchmann",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613373c8c12ff5370c7721d9"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Lisa Brennauer",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613373cdc12ff5370c7721da"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Lisa Klein",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613373d6c12ff5370c7721db"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Liane Lippert",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613373f3c12ff5370c7721dc"),
+ 	"discipline" : [ 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Oliver Geis",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613373fac12ff5370c7721dd"),
+ 	"discipline" : [ 
+ 	"25m low caliber pistol", 
+ 	"10m air pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Christian Reitz",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133740bc12ff5370c7721de"),
+ 	"discipline" : [ 
+ 	"10m air rifle", 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Jolyn Beer",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337469c12ff5370c7721df"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Jacob Heidtmann",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337479c12ff5370c7721e0"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Marius Kusch",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337494c12ff5370c7721e1"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Isabel Gose",
+ 	"country" : "Germany",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337a99c12ff5370c7721e2"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Kristof Milak",
+ 	"country" : "Hungary",
+ 	"index" : 0,
+ 	"medals" : 1,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337ac1c12ff5370c7721e3"),
+ 	"discipline" : [ 
+ 	"javelin throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Norbert Rivasz-Toth",
+ 	"country" : "Hungary",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337acec12ff5370c7721e4"),
+ 	"discipline" : [ 
+ 	"javelin throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Reka Szilagyi",
+ 	"country" : "Hungary",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337ae0c12ff5370c7721e5"),
+ 	"discipline" : [ 
+ 	"long jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Anasztazia Nguyen",
+ 	"country" : "Hungary",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337aefc12ff5370c7721e6"),
+ 	"discipline" : [ 
+ 	"shot put"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Anita Marton",
+ 	"country" : "Hungary",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337c06c12ff5370c7721e7"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Attila Valter",
+ 	"country" : "Hungary",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337c20c12ff5370c7721e8"),
+ 	"discipline" : [ 
+ 	"10m air rifle", 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Istvan Peni",
+ 	"country" : "Hungary",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337c2dc12ff5370c7721e9"),
+ 	"discipline" : [ 
+ 	"50m 3 positions", 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Zalan  Pekler",
+ 	"country" : "Hungary",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337c3ec12ff5370c7721ea"),
+ 	"discipline" : [ 
+ 	"10m air pistol", 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Veronika Major",
+ 	"country" : "Hungary",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337c79c12ff5370c7721eb"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Dominik Kozma",
+ 	"country" : "Hungary",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337c91c12ff5370c7721ec"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Szebasztian Szabo",
+ 	"country" : "Hungary",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337cabc12ff5370c7721ed"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Dalma Sebestyen",
+ 	"country" : "Hungary",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337cffc12ff5370c7721ee"),
+ 	"discipline" : [ 
+ 	"10m air pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Javad Foroughi",
+ 	"country" : "Iran",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337d0cc12ff5370c7721ef"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Hassan Taftian",
+ 	"country" : "Iran",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337d15c12ff5370c7721f0"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Farzaneh Fasihi",
+ 	"country" : "Iran",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337d21c12ff5370c7721f1"),
+ 	"discipline" : [ 
+ 	"discus throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Ehsan Haddadi",
+ 	"country" : "Iran",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337d42c12ff5370c7721f2"),
+ 	"discipline" : [ 
+ 	"10m air rifle", 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Mahyar Sedaghat",
+ 	"country" : "Iran",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337d5ac12ff5370c7721f3"),
+ 	"discipline" : [ 
+ 	"10m air pistol", 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Hanieh Rostamian",
+ 	"country" : "Iran",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337db4c12ff5370c7721f4"),
+ 	"discipline" : [ 
+ 	"high jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Gianmarco Tamberi",
+ 	"country" : "Italy",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337dbfc12ff5370c7721f5"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Marcell Jacobs",
+ 	"country" : "Italy",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337dd9c12ff5370c7721f6"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Elisa Longo Borghini",
+ 	"country" : "Italy",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337df9c12ff5370c7721f7"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Filippo Tortu",
+ 	"country" : "Italy",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337e0ec12ff5370c7721f8"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Anna Bongiorni",
+ 	"country" : "Italy",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337e24c12ff5370c7721f9"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Alberto Bettiol",
+ 	"country" : "Italy",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337e32c12ff5370c7721fa"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Damiano Caruso",
+ 	"country" : "Italy",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337f7ac12ff5370c7721fb"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Gianni Moscon",
+ 	"country" : "Italy",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337f88c12ff5370c7721fc"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Marta Cavalli",
+ 	"country" : "Italy",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337fb3c12ff5370c7721fd"),
+ 	"discipline" : [ 
+ 	"kumite"
+ 	],
+ 	"sport" : "karate",
+ 	"gender" : "male",
+ 	"fullname" : "Luigi Busa",
+ 	"country" : "Italy",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337fc9c12ff5370c7721fe"),
+ 	"discipline" : [ 
+ 	"10m air rifle", 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Lorenzo Bacci",
+ 	"country" : "Italy",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61337fdbc12ff5370c7721ff"),
+ 	"discipline" : [ 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Tommaso Chelli",
+ 	"country" : "Italy",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61338015c12ff5370c772200"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Federico Burdisso",
+ 	"country" : "Italy",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133810fc12ff5370c772201"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Ilaria Bianchi",
+ 	"country" : "Italy",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133811bc12ff5370c772202"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Elena di Liddo",
+ 	"country" : "Italy",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61338128c12ff5370c772203"),
+ 	"discipline" : [ 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Fabio Fognini",
+ 	"country" : "Italy",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61338132c12ff5370c772204"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Lorenzo Sonego",
+ 	"country" : "Italy",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133813cc12ff5370c772205"),
+ 	"discipline" : [ 
+ 	"double", 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Lorenzo Musetti",
+ 	"country" : "Italy",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61338151c12ff5370c772207"),
+ 	"discipline" : [ 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Camila Giorgi",
+ 	"country" : "Italy",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61338253c12ff5370c772208"),
+ 	"discipline" : [ 
+ 	"100m", 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Elaine Thompson Herah",
+ 	"country" : "Jamaica",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61338265c12ff5370c772209"),
+ 	"discipline" : [ 
+ 	"100m", 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Shelly-Ann Fraser-Pryce",
+ 	"country" : "Jamaica",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133826dc12ff5370c77220a"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Shericka Jackson",
+ 	"country" : "Jamaica",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133827ec12ff5370c77220b"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Yohan Blake",
+ 	"country" : "Jamaica",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61338285c12ff5370c77220c"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Oblique Seville",
+ 	"country" : "Jamaica",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133828dc12ff5370c77220d"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Tyquendo Tracey",
+ 	"country" : "Jamaica",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61338296c12ff5370c77220e"),
+ 	"discipline" : [ 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Rasheed Dwyer",
+ 	"country" : "Jamaica",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613382a3c12ff5370c77220f"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Christopher Taylor",
+ 	"country" : "Jamaica",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613382c4c12ff5370c772210"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Candice McLeod",
+ 	"country" : "Jamaica",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613382cdc12ff5370c772211"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Stephenie Ann McPherson",
+ 	"country" : "Jamaica",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613382dbc12ff5370c772212"),
+ 	"discipline" : [ 
+ 	"long jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Tajay Gayle",
+ 	"country" : "Jamaica",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613382e5c12ff5370c772213"),
+ 	"discipline" : [ 
+ 	"long jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Carey McLeod",
+ 	"country" : "Jamaica",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613382efc12ff5370c772214"),
+ 	"discipline" : [ 
+ 	"discus throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Chad Wright",
+ 	"country" : "Jamaica",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613382f7c12ff5370c772215"),
+ 	"discipline" : [ 
+ 	"discus throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Fedrick Dacres",
+ 	"country" : "Jamaica",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61338304c12ff5370c772216"),
+ 	"discipline" : [ 
+ 	"long jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Tissanna Hickling",
+ 	"country" : "Jamaica",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133830ac12ff5370c772217"),
+ 	"discipline" : [ 
+ 	"long jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Chanice Porter",
+ 	"country" : "Jamaica",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61338315c12ff5370c772218"),
+ 	"discipline" : [ 
+ 	"discus throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Shadae Lawrence",
+ 	"country" : "Jamaica",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339719c12ff5370c772219"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Yuki Koike",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339725c12ff5370c77221a"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Ryota Yamagata",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133973ac12ff5370c77221b"),
+ 	"discipline" : [ 
+ 	"long jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Yuki Hashioka",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339747c12ff5370c77221c"),
+ 	"discipline" : [ 
+ 	"high jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Naoto Tobe",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339756c12ff5370c77221d"),
+ 	"discipline" : [ 
+ 	"javelin throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Haruka Kitaguchi",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133975dc12ff5370c77221e"),
+ 	"discipline" : [ 
+ 	"javelin throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Takuto Kominami",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133977dc12ff5370c77221f"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Yukiya Arashiro",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339788c12ff5370c772220"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Nariyuki Masuda",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339790c12ff5370c772221"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Hiromi Kaneko",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613397bdc12ff5370c772222"),
+ 	"discipline" : [ 
+ 	"10m air pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Kojiro Horimizu",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613397c9c12ff5370c772223"),
+ 	"discipline" : [ 
+ 	"10m air rifle", 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Takayuki Matsumoto",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613397dbc12ff5370c772224"),
+ 	"discipline" : [ 
+ 	"50m 3 positions", 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Naoya Okada",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613397ebc12ff5370c772225"),
+ 	"discipline" : [ 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Dai Yoshioka",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613397f5c12ff5370c772226"),
+ 	"discipline" : [ 
+ 	"10m air rifle", 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Shiori Hirata",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339806c12ff5370c772227"),
+ 	"discipline" : [ 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Haruka Nakaguchi",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339814c12ff5370c772228"),
+ 	"discipline" : [ 
+ 	"10m air pistol", 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Chizuru Sasaki",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339821c12ff5370c772229"),
+ 	"discipline" : [ 
+ 	"25m low caliber pistol", 
+ 	"10m air pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Satoko Yamada",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133983ec12ff5370c77222a"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Naoki Mizunuma",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339850c12ff5370c77222b"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Takeshi Kawamoto",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133985ec12ff5370c77222c"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Katsuhiro Matsumoto",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339881c12ff5370c77222d"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Kei Nishikori",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613398a0c12ff5370c77222e"),
+ 	"discipline" : [ 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Naomi Osaka",
+ 	"country" : "Japan",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613398e0c12ff5370c77222f"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Ferdinand Omurwa",
+ 	"country" : "Kenya",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613398eec12ff5370c772230"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Emmanuel Korir",
+ 	"country" : "Kenya",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613398fcc12ff5370c772231"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Hellen Syombua",
+ 	"country" : "Kenya",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339907c12ff5370c772232"),
+ 	"discipline" : [ 
+ 	"high jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Mathew Sawe",
+ 	"country" : "Kenya",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133990fc12ff5370c772233"),
+ 	"discipline" : [ 
+ 	"javelin throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Julius Yego",
+ 	"country" : "Kenya",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339949c12ff5370c772234"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Jin Min-sub",
+ 	"country" : "Korea",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339953c12ff5370c772235"),
+ 	"discipline" : [ 
+ 	"high jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Woo Sang-hyeok",
+ 	"country" : "Korea",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133996cc12ff5370c772236"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Na Ah-reum",
+ 	"country" : "Korea",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133998ec12ff5370c772237"),
+ 	"discipline" : [ 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Han Dae-yoon",
+ 	"country" : "Korea",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339998c12ff5370c772238"),
+ 	"discipline" : [ 
+ 	"10m air pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Jin Jong-oh",
+ 	"country" : "Korea",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133999fc12ff5370c772239"),
+ 	"discipline" : [ 
+ 	"10m air pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Kim Mo-se",
+ 	"country" : "Korea",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613399a8c12ff5370c77223a"),
+ 	"discipline" : [ 
+ 	"10m air rifle", 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Kim Sang-do",
+ 	"country" : "Korea",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613399b7c12ff5370c77223b"),
+ 	"discipline" : [ 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Bae Sang-hee",
+ 	"country" : "Korea",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613399bdc12ff5370c77223c"),
+ 	"discipline" : [ 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Cho Eun-young",
+ 	"country" : "Korea",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613399c7c12ff5370c77223d"),
+ 	"discipline" : [ 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Kim Min-jung",
+ 	"country" : "Korea",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613399d1c12ff5370c77223e"),
+ 	"discipline" : [ 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Kwak Jung-hye",
+ 	"country" : "Korea",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613399ddc12ff5370c77223f"),
+ 	"discipline" : [ 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Kwon Eun-ji",
+ 	"country" : "Korea",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613399e6c12ff5370c772240"),
+ 	"discipline" : [ 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Park Hee-moon",
+ 	"country" : "Korea",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("613399f7c12ff5370c772241"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Hwang Sun-woo",
+ 	"country" : "Korea",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339a03c12ff5370c772242"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Moon Seung-woo",
+ 	"country" : "Korea",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339a0bc12ff5370c772243"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "An Se-hyeon",
+ 	"country" : "Korea",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339a25c12ff5370c772244"),
+ 	"discipline" : [ 
+ 	"kyorugi"
+ 	],
+ 	"sport" : "taekwondo",
+ 	"gender" : "female",
+ 	"fullname" : "Lee Da-bin",
+ 	"country" : "Korea",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339a35c12ff5370c772245"),
+ 	"discipline" : [ 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Kwon Soon-woo",
+ 	"country" : "Korea",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339ba8c12ff5370c772246"),
+ 	"discipline" : [ 
+ 	"discus throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Danijel Furtula",
+ 	"country" : "Montenegro",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339bb6c12ff5370c772247"),
+ 	"discipline" : [ 
+ 	"high jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Marija Vuković",
+ 	"country" : "Montenegro",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339bcbc12ff5370c772248"),
+ 	"discipline" : [ 
+ 	"10m air pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Jelena  Pantovic",
+ 	"country" : "Montenegro",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339c1bc12ff5370c772249"),
+ 	"discipline" : [ 
+ 	"shot put"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Valerie Adams",
+ 	"country" : "NZ",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339c25c12ff5370c77224a"),
+ 	"discipline" : [ 
+ 	"shot put"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Tom Walsh",
+ 	"country" : "NZ",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339c2fc12ff5370c77224b"),
+ 	"discipline" : [ 
+ 	"shot put"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Maddi Wesche",
+ 	"country" : "NZ",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339c37c12ff5370c77224c"),
+ 	"discipline" : [ 
+ 	"shot put"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Jacko Gill",
+ 	"country" : "NZ",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339c43c12ff5370c77224d"),
+ 	"discipline" : [ 
+ 	"high jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Hamish Kerr",
+ 	"country" : "NZ",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339c58c12ff5370c77224e"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "George Bennett",
+ 	"country" : "NZ",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339c5fc12ff5370c77224f"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Patrick Bevin",
+ 	"country" : "NZ",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339c82c12ff5370c772250"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Erika Fairweather",
+ 	"country" : "NZ",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339c8dc12ff5370c772251"),
+ 	"discipline" : [ 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Marcus Daniell",
+ 	"country" : "NZ",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339c96c12ff5370c772252"),
+ 	"discipline" : [ 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Michael Venus",
+ 	"country" : "NZ",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339cc6c12ff5370c772253"),
+ 	"discipline" : [ 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Taymir Burnet",
+ 	"country" : "Netherlands",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339ccfc12ff5370c772254"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Liemarvin Bonevacia",
+ 	"country" : "Netherlands",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339cd8c12ff5370c772255"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Jochem Dobber",
+ 	"country" : "Netherlands",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339ce7c12ff5370c772256"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Marije van Hunenstijn",
+ 	"country" : "Netherlands",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339d02c12ff5370c772258"),
+ 	"discipline" : [ 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Dafne Schippers",
+ 	"country" : "Netherlands",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339d11c12ff5370c772259"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Menno Vloon",
+ 	"country" : "Netherlands",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339d1ac12ff5370c77225a"),
+ 	"discipline" : [ 
+ 	"shot put"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Jessica Schilder",
+ 	"country" : "Netherlands",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339d32c12ff5370c77225b"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Dylan van Baarle",
+ 	"country" : "Netherlands",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339d39c12ff5370c77225c"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Bauke Mollema",
+ 	"country" : "Netherlands",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339d44c12ff5370c77225d"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Annemiek van Vleuten",
+ 	"country" : "Netherlands",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339d4ec12ff5370c77225e"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Marianne Vos",
+ 	"country" : "Netherlands",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339db2c12ff5370c77225f"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Nyls Korstanje",
+ 	"country" : "Netherlands",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339e07c12ff5370c772260"),
+ 	"discipline" : [ 
+ 	"discus throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Ola Stunes Isene",
+ 	"country" : "Norway",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339e13c12ff5370c772261"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Tobias Foss",
+ 	"country" : "Norway",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339e1bc12ff5370c772262"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Markus Hoelgaard",
+ 	"country" : "Norway",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339e22c12ff5370c772263"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Andreas Leknessund",
+ 	"country" : "Norway",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339e2ec12ff5370c772264"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Katrine Aalerud",
+ 	"country" : "Norway",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339e45c12ff5370c772265"),
+ 	"discipline" : [ 
+ 	"10m air rifle", 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Jon-Hermann Hegg",
+ 	"country" : "Norway",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339e52c12ff5370c772266"),
+ 	"discipline" : [ 
+ 	"50m 3 positions", 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Henrik Larsen",
+ 	"country" : "Norway",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339e5fc12ff5370c772267"),
+ 	"discipline" : [ 
+ 	"10m air rifle", 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Jeanette Hegg Duestad",
+ 	"country" : "Norway",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339e6ac12ff5370c772268"),
+ 	"discipline" : [ 
+ 	"50m 3 positions", 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Jenny Stene",
+ 	"country" : "Norway",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339e7ec12ff5370c772269"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Tomoe Zenimoto Hvas",
+ 	"country" : "Norway",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339e8ec12ff5370c77226a"),
+ 	"discipline" : [ 
+ 	"kyorugi"
+ 	],
+ 	"sport" : "taekwondo",
+ 	"gender" : "male",
+ 	"fullname" : "Richard Ordemann",
+ 	"country" : "Norway",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339ea5c12ff5370c77226b"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Jovan Stojoski",
+ 	"country" : "Macedonia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339eb7c12ff5370c77226c"),
+ 	"discipline" : [ 
+ 	"10m air pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Borjan Brankovski",
+ 	"country" : "Macedonia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339ed6c12ff5370c77226d"),
+ 	"discipline" : [ 
+ 	"kyorugi"
+ 	],
+ 	"sport" : "taekwondo",
+ 	"gender" : "male",
+ 	"fullname" : "Dejan Georgievski",
+ 	"country" : "Macedonia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339f1bc12ff5370c77226e"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Karol Zalewski",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339f23c12ff5370c77226f"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Natalia Kaczmarek",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339f2fc12ff5370c772270"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Piotr Lisek",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339f36c12ff5370c772271"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Robert Sobera",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339f3ec12ff5370c772272"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Pawel Wojciechowski",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 1,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339f47c12ff5370c772273"),
+ 	"discipline" : [ 
+ 	"javelin throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Marcin Krukowski",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339f52c12ff5370c772274"),
+ 	"discipline" : [ 
+ 	"javelin throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Cyprian Mrzyglod",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339f62c12ff5370c772275"),
+ 	"discipline" : [ 
+ 	"discus throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Piotr  Malachowski",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339f6ac12ff5370c772276"),
+ 	"discipline" : [ 
+ 	"javelin throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Maria Andrejczyk",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339f8cc12ff5370c772277"),
+ 	"discipline" : [ 
+ 	"high jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Kamila Licwinko",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339f9fc12ff5370c772278"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Maciej Bodnar",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339faac12ff5370c772279"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Rafal Majka",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339fb3c12ff5370c77227a"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Michal Kwiatkowski",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339fbcc12ff5370c77227b"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Marta Lach",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339fc5c12ff5370c77227c"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Katarzyna Niewiadoma",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("61339fd1c12ff5370c77227d"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Anna Plichta",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a02fc12ff5370c772280"),
+ 	"discipline" : [ 
+ 	"25m low caliber pistol", 
+ 	"10m air pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Klaudia Bres",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a03cc12ff5370c772281"),
+ 	"discipline" : [ 
+ 	"10m air rifle", 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Tomasz Bartnik",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a055c12ff5370c772282"),
+ 	"discipline" : [ 
+ 	"kyorugi"
+ 	],
+ 	"sport" : "taekwondo",
+ 	"gender" : "female",
+ 	"fullname" : "Aleksandra Kowalczuk",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a062c12ff5370c772283"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Hubert Hurkacz",
+ 	"country" : "Poland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a0e3c12ff5370c772284"),
+ 	"discipline" : [ 
+ 	"10m air pistol", 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Vitalina Batsarashkina",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a0f1c12ff5370c772285"),
+ 	"discipline" : [ 
+ 	"kyorugi"
+ 	],
+ 	"sport" : "taekwondo",
+ 	"gender" : "male",
+ 	"fullname" : "Maksim Khramtsov",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a110c12ff5370c772286"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Andrey Rublev",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a121c12ff5370c772287"),
+ 	"discipline" : [ 
+ 	"double", 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Anastasia Pavlyuchenkova",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a12ec12ff5370c772288"),
+ 	"discipline" : [ 
+ 	"high jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Mariya Lasitskene",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a13dc12ff5370c772289"),
+ 	"discipline" : [ 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Anastasiia Galashina",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a155c12ff5370c77228a"),
+ 	"discipline" : [ 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Yulia Zykova",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a162c12ff5370c77228b"),
+ 	"discipline" : [ 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Karen Khachanov",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a168c12ff5370c77228c"),
+ 	"discipline" : [ 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Daniil Medvedev",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 1,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a179c12ff5370c77228d"),
+ 	"discipline" : [ 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Sergey Kamenskiy",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a183c12ff5370c77228e"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Anzhelika Sidorova",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a198c12ff5370c77228f"),
+ 	"discipline" : [ 
+ 	"50m 3 positions", 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Yulia Karimova",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a1b5c12ff5370c772290"),
+ 	"discipline" : [ 
+ 	"high jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Mikhail Akimenko",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a1bbc12ff5370c772291"),
+ 	"discipline" : [ 
+ 	"high jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Ilya Ivanyuk",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a1ccc12ff5370c772292"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Pavel Sivakov",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a1d5c12ff5370c772293"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Tamara Dronova",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a1f5c12ff5370c772294"),
+ 	"discipline" : [ 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Vladimir Maslennikov",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a21fc12ff5370c772295"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Ivan Girev",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a229c12ff5370c772296"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Andrey Minakov",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a232c12ff5370c772297"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Martin Malyutin",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a23bc12ff5370c772298"),
+ 	"discipline" : [ 
+ 	"200m freestyle", 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Mikhail Vekovishchev",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a24ac12ff5370c772299"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Veronika Andrusenko",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a257c12ff5370c77229a"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Svetlana Chimrova",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a264c12ff5370c77229b"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Valeriya Salamatina",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a26dc12ff5370c77229c"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Arina Surkova",
+ 	"country" : "Russia",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a2cdc12ff5370c77229d"),
+ 	"discipline" : [ 
+ 	"javelin throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Kim Amb",
+ 	"country" : "Sweden",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a2d8c12ff5370c77229e"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Armand Duplantis",
+ 	"country" : "Sweden",
+ 	"index" : 0,
+ 	"medals" : 1,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a2e0c12ff5370c77229f"),
+ 	"discipline" : [ 
+ 	"long jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Thobias Montler",
+ 	"country" : "Sweden",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a2f7c12ff5370c7722a0"),
+ 	"discipline" : [ 
+ 	"discus throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Simon Pettersson",
+ 	"country" : "Sweden",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a304c12ff5370c7722a1"),
+ 	"discipline" : [ 
+ 	"discus throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Daniel Stahl",
+ 	"country" : "Sweden",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a30ec12ff5370c7722a2"),
+ 	"discipline" : [ 
+ 	"shot put"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Fanny Roos",
+ 	"country" : "Sweden",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a318c12ff5370c7722a3"),
+ 	"discipline" : [ 
+ 	"long jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Khaddi Sagnia",
+ 	"country" : "Sweden",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a325c12ff5370c7722a4"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Emilia Fahlin",
+ 	"country" : "Sweden",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a33dc12ff5370c7722a5"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Robin Hanson",
+ 	"country" : "Sweden",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a34cc12ff5370c7722a6"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Louise Hansson",
+ 	"country" : "Sweden",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a358c12ff5370c7722a7"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Sarah Sjostrom",
+ 	"country" : "Sweden",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a383c12ff5370c7722a8"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Ajla Del Ponte",
+ 	"country" : "Switzerland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a38ac12ff5370c7722a9"),
+ 	"discipline" : [ 
+ 	"100m", 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Mujinga Kambundji",
+ 	"country" : "Switzerland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a39dc12ff5370c7722aa"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Angelica Moser",
+ 	"country" : "Switzerland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a3a8c12ff5370c7722ab"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Marc Hirschi",
+ 	"country" : "Switzerland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a3b1c12ff5370c7722ac"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Stefan Kung",
+ 	"country" : "Switzerland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a3b7c12ff5370c7722ad"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Gino Mader",
+ 	"country" : "Switzerland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a3c2c12ff5370c7722ae"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Michael Schar",
+ 	"country" : "Switzerland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a3cac12ff5370c7722af"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Marlen Reusser",
+ 	"country" : "Switzerland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a3e0c12ff5370c7722b0"),
+ 	"discipline" : [ 
+ 	"10m air rifle", 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Nina Christen",
+ 	"country" : "Switzerland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a3f5c12ff5370c7722b1"),
+ 	"discipline" : [ 
+ 	"10m air pistol", 
+ 	"25m low caliber pistol"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Heidi Diethelm Gerber",
+ 	"country" : "Switzerland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a407c12ff5370c7722b2"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Antonio Djakovic",
+ 	"country" : "Switzerland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a413c12ff5370c7722b3"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Noe Ponti",
+ 	"country" : "Switzerland",
+ 	"index" : 0,
+ 	"medals" : 1,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a421c12ff5370c7722b4"),
+ 	"discipline" : [ 
+ 	"single", 
+ 	"double"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Belinda Bencic",
+ 	"country" : "Switzerland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a430c12ff5370c7722b5"),
+ 	"discipline" : [ 
+ 	"double", 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "female",
+ 	"fullname" : "Viktorija Golubic",
+ 	"country" : "Switzerland",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a45ac12ff5370c7722b6"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Leni Shida",
+ 	"country" : "Uganda",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133a46ac12ff5370c7722b7"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Atuhaire Ambala",
+ 	"country" : "Uganda",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133c899c12ff5370c7722b8"),
+ 	"discipline" : [ 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Will Shaner",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133c8b6c12ff5370c7722ba"),
+ 	"discipline" : [ 
+ 	"kyorugi"
+ 	],
+ 	"sport" : "taekwondo",
+ 	"gender" : "female",
+ 	"fullname" : "Anastasija Zolotic",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133c8cbc12ff5370c7722bb"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Caeleb Dressel",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 1,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133c8dec12ff5370c7722bc"),
+ 	"discipline" : [ 
+ 	"discus throw"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Valarie Allman",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133c8eec12ff5370c7722bd"),
+ 	"discipline" : [ 
+ 	"shot put"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Ryan Crouser",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133c8f9c12ff5370c7722be"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Katie Nageotte",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133c918c12ff5370c7722bf"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Fred Kerley",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133c922c12ff5370c7722c0"),
+ 	"discipline" : [ 
+ 	"shot put"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Raven Saunders",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133c935c12ff5370c7722c1"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Chris Nilsen",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 1,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133c945c12ff5370c7722c2"),
+ 	"discipline" : [ 
+ 	"long jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Brittney Reese",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133c9acc12ff5370c7722c3"),
+ 	"discipline" : [ 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Kenneth Bednarek",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133c9b7c12ff5370c7722c4"),
+ 	"discipline" : [ 
+ 	"shot put"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Joe Kovacs",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133c9cac12ff5370c7722c5"),
+ 	"discipline" : [ 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Gabrielle Thomas",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133c9d6c12ff5370c7722c6"),
+ 	"discipline" : [ 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Noah Lyles",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133c9e3c12ff5370c7722c7"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Allyson Felix",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133c9f5c12ff5370c7722c8"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Ronnie Baker",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ca01c12ff5370c7722c9"),
+ 	"discipline" : [ 
+ 	"200m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Erriyon Knighton",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ca0cc12ff5370c7722ca"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Michael Cherry",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ca13c12ff5370c7722cb"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Michael Norman",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ca25c12ff5370c7722cc"),
+ 	"discipline" : [ 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Quanera Hayes",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ca3cc12ff5370c7722cd"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "KC Lightfoot",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ca4fc12ff5370c7722ce"),
+ 	"discipline" : [ 
+ 	"long jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Tara Davis",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ca81c12ff5370c7722cf"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Brandon McNulty",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 1,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ca96c12ff5370c7722d0"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Coryn Rivera",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cab8c12ff5370c7722d1"),
+ 	"discipline" : [ 
+ 	"10m air rifle"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "male",
+ 	"fullname" : "Lucas Kozeniesky",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cad2c12ff5370c7722d2"),
+ 	"discipline" : [ 
+ 	"50m 3 positions"
+ 	],
+ 	"sport" : "shooting",
+ 	"gender" : "female",
+ 	"fullname" : "Sagen Maddalena",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cae8c12ff5370c7722d3"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Kieran Smith",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133caf5c12ff5370c7722d4"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Tom Shields",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cb03c12ff5370c7722d5"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Katie Ledecky",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cb0fc12ff5370c7722d6"),
+ 	"discipline" : [ 
+ 	"100m butterfly"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "female",
+ 	"fullname" : "Torri Huske",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cb2fc12ff5370c7722d7"),
+ 	"discipline" : [ 
+ 	"single"
+ 	],
+ 	"sport" : "tennis",
+ 	"gender" : "male",
+ 	"fullname" : "Marcos Giron",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cb79c12ff5370c7722d8"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Tom Dean",
+ 	"country" : "UK",
+ 	"index" : 0,
+ 	"medals" : 1,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cb8fc12ff5370c7722d9"),
+ 	"discipline" : [ 
+ 	"kyorugi"
+ 	],
+ 	"sport" : "taekwondo",
+ 	"gender" : "female",
+ 	"fullname" : "Lauren Williams",
+ 	"country" : "UK",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cb99c12ff5370c7722da"),
+ 	"discipline" : [ 
+ 	"200m freestyle"
+ 	],
+ 	"sport" : "swimming",
+ 	"gender" : "male",
+ 	"fullname" : "Duncan Scott",
+ 	"country" : "UK",
+ 	"index" : 0,
+ 	"medals" : 1,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cbb6c12ff5370c7722db"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Holly Bradshaw",
+ 	"country" : "UK",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cbd2c12ff5370c7722dc"),
+ 	"discipline" : [ 
+ 	"100m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Daryll Neita",
+ 	"country" : "UK",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cbdcc12ff5370c7722dd"),
+ 	"discipline" : [ 
+ 	"200m", 
+ 	"400m"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Jodie Williams",
+ 	"country" : "UK",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cc43c12ff5370c7722de"),
+ 	"discipline" : [ 
+ 	"pole vault"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "male",
+ 	"fullname" : "Harry Coppell",
+ 	"country" : "UK",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cc52c12ff5370c7722df"),
+ 	"discipline" : [ 
+ 	"long jump"
+ 	],
+ 	"sport" : "athletics",
+ 	"gender" : "female",
+ 	"fullname" : "Jazmin Sawyers",
+ 	"country" : "UK",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cc63c12ff5370c7722e0"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Adam Yates",
+ 	"country" : "UK",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cc6bc12ff5370c7722e1"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "male",
+ 	"fullname" : "Simon Yates",
+ 	"country" : "UK",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cc78c12ff5370c7722e2"),
+ 	"discipline" : [ 
+ 	"225km street race"
+ 	],
+ 	"sport" : "cycling",
+ 	"gender" : "female",
+ 	"fullname" : "Elizabeth Deignan",
+ 	"country" : "UK",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ce4ac12ff5370c7722e3"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Jewell Loyd",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ce55c12ff5370c7722e4"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Skylar Diggins-Smith",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ce5cc12ff5370c7722e5"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Sue Bird",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ce62c12ff5370c7722e6"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Ariel Atkins",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ce68c12ff5370c7722e7"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Chelsea Gray",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ce70c12ff5370c7722e8"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "A'ja Wilson",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ce78c12ff5370c7722e9"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Breanna Stewart",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ce82c12ff5370c7722ea"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Napheesa Collier",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ce88c12ff5370c7722eb"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Diana Taurasi",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ce8fc12ff5370c7722ec"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Sylvia Fowles",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ce99c12ff5370c7722ed"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Tina Charles",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ce9fc12ff5370c7722ee"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "basketball",
+ 	"gender" : "female",
+ 	"fullname" : "Brittney Griner",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133ceeac12ff5370c7722ef"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Carol Gattaz",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cef4c12ff5370c7722f0"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Rosamaria Montibeller",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cefcc12ff5370c7722f1"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Macris Carneiro",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cf0bc12ff5370c7722f2"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Roberta Ratzke",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cf18c12ff5370c7722f3"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Gabriela Guimaraes",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cf20c12ff5370c7722f4"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Tandara Caixeta",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cf2ac12ff5370c7722f5"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Natalia Pereira",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cf36c12ff5370c7722f6"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Ana Carolina da Silva",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cf3ec12ff5370c7722f7"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Fernanda Garay",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cf46c12ff5370c7722f8"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Ana Cristina de Souza",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cf52c12ff5370c7722f9"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Camila Brait",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cf5cc12ff5370c7722fa"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Ana Beatriz Correa",
+ 	"country" : "Brazil",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cfadc12ff5370c7722fb"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Micha Hancock",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cfb7c12ff5370c7722fc"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Jordyn Poulter",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cfc1c12ff5370c7722fd"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Justine Wong-Orantes",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cfcac12ff5370c7722fe"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Jordan Larson",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cfd3c12ff5370c7722ff"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Andrea Drews",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cfdbc12ff5370c772300"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Jordan Thompson",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cfe3c12ff5370c772301"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Michelle Bartsch-Hackley",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cfefc12ff5370c772302"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Kimberly Hill",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cff7c12ff5370c772303"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Foluke Akinradewo",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133cffec12ff5370c772304"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Haleigh Washington",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133d008c12ff5370c772305"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Kelsey Robinson",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133d011c12ff5370c772306"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "voleyball",
+ 	"gender" : "female",
+ 	"fullname" : "Chiaka Ogbogu",
+ 	"country" : "USA",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133d086c12ff5370c772307"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Emmanouil Zerdevas",
+ 	"country" : "Greece",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133d08fc12ff5370c772308"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Konstantinos Genidounias",
+ 	"country" : "Greece",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133d096c12ff5370c772309"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Dimitrios Skoumpakis",
+ 	"country" : "Greece",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133d09cc12ff5370c77230a"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Marios Kapotsis",
+ 	"country" : "Greece",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133d0a6c12ff5370c77230b"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Ioannis Fountoulis",
+ 	"country" : "Greece",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133d0adc12ff5370c77230c"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Alexandros Papanastasiou",
+ 	"country" : "Greece",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133d0b3c12ff5370c77230d"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Georgios Dervisis",
+ 	"country" : "Greece",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133d0bac12ff5370c77230e"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Stylianos Argyropoulos",
+ 	"country" : "Greece",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133d0c2c12ff5370c77230f"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Konstantinos Mourikis",
+ 	"country" : "Greece",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133d0c8c12ff5370c772310"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Christodoulos Kolomvos",
+ 	"country" : "Greece",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133d0d0c12ff5370c772311"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Konstantinos Gkiouvetsis",
+ 	"country" : "Greece",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133d0d7c12ff5370c772312"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Angelos Vlachopoulos",
+ 	"country" : "Greece",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}
+{
+ 	"_id" : ObjectId("6133d0e2c12ff5370c772313"),
+ 	"discipline" : [ 
+ 	"/"
+ 	],
+ 	"sport" : "waterpolo",
+ 	"gender" : "male",
+ 	"fullname" : "Konstantinos Galanidis",
+ 	"country" : "Greece",
+ 	"index" : 0,
+ 	"medals" : 0,
+ 	"__v" : 0
+}

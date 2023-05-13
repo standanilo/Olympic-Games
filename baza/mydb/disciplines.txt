@@ -1,0 +1,197 @@
+{
+	"_id" : ObjectId("611b8646d837ec41d5f29c7d"),
+	"sport" : "tennis",
+	"discipline" : "single",
+	"type" : "individual",
+	"players" : "1"
+}
+{
+	"_id" : ObjectId("611b866bd837ec41d5f29c94"),
+	"sport" : "tennis",
+	"discipline" : "double",
+	"type" : "individual",
+	"players" : "2"
+}
+{
+	"_id" : ObjectId("611b869ed837ec41d5f29ca5"),
+	"sport" : "waterpolo",
+	"discipline" : "/",
+	"type" : "team",
+	"players" : "6/13"
+}
+{
+	"_id" : ObjectId("611b86acd837ec41d5f29cab"),
+	"sport" : "basketball",
+	"discipline" : "/",
+	"type" : "team",
+	"players" : "5/12"
+}
+{
+	"_id" : ObjectId("611b86f0d837ec41d5f29cc3"),
+	"sport" : "athletics",
+	"discipline" : "100m",
+	"type" : "individual",
+	"players" : "1"
+}
+{
+	"_id" : ObjectId("611b8700d837ec41d5f29cc9"),
+	"sport" : "athletics",
+	"discipline" : "pole vault",
+	"type" : "individual",
+	"players" : "1"
+}
+{
+	"_id" : ObjectId("611b8727d837ec41d5f29cd9"),
+	"sport" : "athletics",
+	"discipline" : "high jump",
+	"type" : "individual",
+	"players" : "1"
+}
+{
+	"_id" : ObjectId("611b8761d837ec41d5f29ceb"),
+	"sport" : "taekwondo",
+	"discipline" : "kyorugi",
+	"type" : "individual",
+	"players" : "1"
+}
+{
+	"_id" : ObjectId("611b8780d837ec41d5f29cfd"),
+	"sport" : "karate",
+	"discipline" : "kumite",
+	"type" : "individual",
+	"players" : "1"
+}
+{
+	"_id" : ObjectId("611ba0b7f879f93034c44a33"),
+	"sport" : "football",
+	"discipline" : "/",
+	"type" : "team",
+	"players" : "11/18",
+	"__v" : 0
+}
+{
+	"_id" : ObjectId("611ba0e5f879f93034c44a34"),
+	"sport" : "athletics",
+	"discipline" : "400m",
+	"type" : "individual",
+	"players" : "1",
+	"__v" : 0
+}
+{
+	"_id" : ObjectId("6127e2c658dc981538d63127"),
+	"discipline" : [ 
+    	"50m 3 positions"
+        ],
+	"sport" : "shooting",
+	"type" : "individual",
+	"players" : "1",
+	"__v" : 0
+}
+{
+	"_id" : ObjectId("61333e0e87059a2fec3f560d"),
+	"discipline" : [ 
+    	"/"
+        ],
+	"sport" : "volleyball",
+	"type" : "team",
+	"players" : "6/12",
+	"__v" : 0
+}
+{
+	"_id" : ObjectId("61333f6cc12ff5370c7720d9"),
+	"discipline" : [ 
+    	"100m butterfly"
+        ],
+	"sport" : "swimming",
+	"type" : "individual",
+	"players" : "1",
+	"__v" : 0
+}
+{
+	"_id" : ObjectId("61333f79c12ff5370c7720da"),
+	"discipline" : [ 
+    	"200m freestyle"
+        ],
+	"sport" : "swimming",
+	"type" : "individual",
+	"players" : "1",
+	"__v" : 0
+}
+{
+	"_id" : ObjectId("61333f9bc12ff5370c7720db"),
+	"discipline" : [ 
+    	"225km street race"
+        ],
+	"sport" : "cycling",
+	"type" : "individual",
+	"players" : "1",
+	"__v" : 0
+}
+{
+	"_id" : ObjectId("61333ff8c12ff5370c7720dc"),
+	"discipline" : [ 
+    	"10m air rifle"
+        ],
+	"sport" : "shooting",
+	"type" : "individual",
+	"players" : "1",
+	"__v" : 0
+}
+{
+	"_id" : ObjectId("6133401ac12ff5370c7720dd"),
+	"discipline" : [ 
+    	"25m low caliber pistol"
+        ],
+	"sport" : "shooting",
+	"type" : "individual",
+	"players" : "1",
+	"__v" : 0
+}
+{
+	"_id" : ObjectId("61334027c12ff5370c7720de"),
+	"discipline" : [ 
+    	"10m air pistol"
+        ],
+	"sport" : "shooting",
+	"type" : "individual",
+	"players" : "1",
+	"__v" : 0
+}
+{
+	"_id" : ObjectId("613357551fadc97ef25e94a7"),
+	"sport" : "athletics",
+	"discipline" : "long jump",
+	"type" : "individual",
+	"players" : "1"
+}
+{
+	"_id" : ObjectId("613357601fadc97ef25e94ae"),
+	"sport" : "athletics",
+	"discipline" : "shot put",
+	"type" : "individual",
+	"players" : "1"
+}
+{
+	"_id" : ObjectId("613357791fadc97ef25e94bc"),
+	"sport" : "athletics",
+	"discipline" : "discus throw",
+	"type" : "individual",
+	"players" : "1"
+}
+{
+	"_id" : ObjectId("613357841fadc97ef25e94c1"),
+	"sport" : "athletics",
+	"discipline" : "javelin throw",
+	"type" : "individual",
+	"players" : "1"
+}
+{
+	"_id" : ObjectId("61335d91c12ff5370c772143"),
+	"discipline" : [ 
+    	"200m"
+        ],
+	"sport" : "athletics",
+	"type" : "individual",
+	"players" : "1",
+	"__v" : 0
+}

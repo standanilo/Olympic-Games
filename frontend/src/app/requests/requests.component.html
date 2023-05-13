@@ -1,0 +1,52 @@
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="#">Menu</a></li>
+      <li class="breadcrumb-item active" aria-current="page">Register requests</li>
+    </ol>
+</nav>
+<table class='left'>
+    <tr>
+        <td>
+            <h4>ACCEPT REQUEST</h4>
+            <form [formGroup]="requestForm1" (ngSubmit)='addUser()'>
+                <table class="table1">
+                    <tr>
+                        <td>
+                            <select class='select1' formControlName="user1" name='user1'>
+                                <option hidden>--pick user to register--</option>
+                                <option *ngFor='let r of requests'>{{r.username}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan='2'>
+                            <button type="submit" class="button1" [disabled]='requestForm1.invalid'>Register</button>
+                        </td>
+                    </tr>
+                </table>
+            </form>
+            <div class="red" *ngIf='message1'>{{message1}}</div>
+        </td>
+        <td>
+            <h4>DENY REQUEST</h4>
+            <form [formGroup]="requestForm2" (ngSubmit)='removeUser()'>
+                <table class="table1">
+                    <tr>
+                        <td>
+                            <select class='select1' formControlName="user2" name='user2'>
+                                <option hidden>--pick user to remove--</option>
+                                <option *ngFor='let r of requests'>{{r.username}}</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan='2'>
+                            <button type="submit" class="button1" [disabled]='requestForm2.invalid'>Remove</button>
+                        </td>
+                    </tr>
+                </table>
+            </form>
+            <div class="red" *ngIf='message2'>{{message2}}</div>
+        </td>
+    </tr>
+</table>

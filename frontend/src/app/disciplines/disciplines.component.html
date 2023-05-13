@@ -1,0 +1,45 @@
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="#">Menu</a></li>
+      <li class="breadcrumb-item active" aria-current="page">Add disciplines</li>
+    </ol>
+</nav>
+<form>
+    <h4>Add discipline</h4>
+    <table class='table1'>
+        <tr>
+            <td>Sport:</td>
+            <td>
+                <input type='text' class="textbox" name='sport' [(ngModel)]='sport'>
+            </td>
+        </tr>
+        <tr>
+            <td>Discipline:</td>
+            <td>
+                <input type='text' class="textbox" name='discipline' [(ngModel)]='discipline'>
+            </td>
+        </tr>
+        <tr>
+            <td>Type:</td>
+            <td>
+                <input type='radio' name='type' value="individual" [(ngModel)]='type'> individual
+                <input type='radio' name='type' value="team" [(ngModel)]='type'> team
+            </td>
+        </tr>
+        <tr>
+            <td>Players:</td>
+            <td>
+                <input type='text' class="textbox" name='players' [(ngModel)]='players'>
+            </td>
+        </tr>
+        <tr>
+            <td colspan='2'>
+                <button class="button1" (click)='addDiscipline()'>Add</button>
+            </td>
+        </tr>
+    </table>
+    <div *ngIf='message' class='error'>
+        {{message}}
+    </div>
+    <br/>
+</form>

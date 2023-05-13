@@ -1,0 +1,280 @@
+{
+	"_id" : ObjectId("611a1b1ecf20bde87b13a88e"),
+	"name" : "Australia",
+	"numOfAthletes" : 40,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1b43cf20bde87b13a895"),
+	"name" : "USA",
+	"numOfAthletes" : 56,
+	"numGold" : 1,
+	"numSilver" : 2,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1be2cf20bde87b13a8af"),
+	"name" : "China",
+	"numOfAthletes" : 15,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1bfccf20bde87b13a8b4"),
+	"name" : "UK",
+	"numOfAthletes" : 11,
+	"numGold" : 1,
+	"numSilver" : 1,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1c31cf20bde87b13a8b9"),
+	"name" : "Japan",
+	"numOfAthletes" : 22,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1c50cf20bde87b13a8cd"),
+	"name" : "Russia",
+	"numOfAthletes" : 25,
+	"numGold" : 0,
+	"numSilver" : 1,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1c7acf20bde87b13a8dc"),
+	"name" : "Netherlands",
+	"numOfAthletes" : 13,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1c97cf20bde87b13a8eb"),
+	"name" : "France",
+	"numOfAthletes" : 26,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 1
+}
+{
+	"_id" : ObjectId("611a1cafcf20bde87b13a8ee"),
+	"name" : "Germany",
+	"numOfAthletes" : 20,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1cc4cf20bde87b13a8f3"),
+	"name" : "Italy",
+	"numOfAthletes" : 20,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1cd9cf20bde87b13a8f8"),
+	"name" : "Canada",
+	"numOfAthletes" : 15,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1ceacf20bde87b13a8fb"),
+	"name" : "Brazil",
+	"numOfAthletes" : 24,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 1
+}
+{
+	"_id" : ObjectId("611a1cf7cf20bde87b13a8fe"),
+	"name" : "NZ",
+	"numOfAthletes" : 10,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1d02cf20bde87b13a903"),
+	"name" : "Cuba",
+	"numOfAthletes" : 9,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1d0dcf20bde87b13a906"),
+	"name" : "Hungary",
+	"numOfAthletes" : 12,
+	"numGold" : 0,
+	"numSilver" : 1,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1d1acf20bde87b13a90b"),
+	"name" : "Korea",
+	"numOfAthletes" : 18,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1d27cf20bde87b13a90e"),
+	"name" : "Poland",
+	"numOfAthletes" : 22,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 1
+}
+{
+	"_id" : ObjectId("611a1d6ccf20bde87b13a924"),
+	"name" : "Czech",
+	"numOfAthletes" : 20,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1d7fcf20bde87b13a927"),
+	"name" : "Kenya",
+	"numOfAthletes" : 5,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1d8bcf20bde87b13a92c"),
+	"name" : "Norway",
+	"numOfAthletes" : 11,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1d99cf20bde87b13a92f"),
+	"name" : "Jamaica",
+	"numOfAthletes" : 17,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1da8cf20bde87b13a934"),
+	"name" : "Spain",
+	"numOfAthletes" : 7,
+	"numGold" : 1,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1dbccf20bde87b13a937"),
+	"name" : "Sweden",
+	"numOfAthletes" : 11,
+	"numGold" : 1,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1dcbcf20bde87b13a93c"),
+	"name" : "Switzerland",
+	"numOfAthletes" : 14,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 1
+}
+{
+	"_id" : ObjectId("611a1dd9cf20bde87b13a93f"),
+	"name" : "Denmark",
+	"numOfAthletes" : 8,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1de8cf20bde87b13a944"),
+	"name" : "Croatia",
+	"numOfAthletes" : 15,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1dfccf20bde87b13a947"),
+	"name" : "Iran",
+	"numOfAthletes" : 6,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1e05cf20bde87b13a94c"),
+	"name" : "Serbia",
+	"numOfAthletes" : 44,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 1
+}
+{
+	"_id" : ObjectId("611a1e10cf20bde87b13a94f"),
+	"name" : "Belgium",
+	"numOfAthletes" : 11,
+	"numGold" : 1,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1e1fcf20bde87b13a952"),
+	"name" : "Bulgaria",
+	"numOfAthletes" : 7,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("611a1e7ccf20bde87b13a967"),
+	"name" : "Macedonia",
+	"numOfAthletes" : 3,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("6128246f80e99ec91dfbf189"),
+	"name" : "Montenegro",
+	"numOfAthletes" : 3,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("6128246f80e99ec91dfbf18c"),
+	"name" : "Uganda",
+	"numOfAthletes" : 2,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("6128246f80e99ec91dfbf18f"),
+	"name" : "Argentina",
+	"numOfAthletes" : 8,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}
+{
+	"_id" : ObjectId("6133d1171fadc97ef25ec895"),
+	"name" : "Greece",
+	"numOfAthletes" : 13,
+	"numGold" : 0,
+	"numSilver" : 0,
+	"numBronze" : 0
+}

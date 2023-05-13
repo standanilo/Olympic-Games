@@ -1,0 +1,22 @@
+{
+    "_id" : ObjectId("613258a73022150afc9ffe31"),
+    "username" : "daco",
+    "password" : "Damjan12!A!",
+    "firstname" : "Damjan",
+    "lastname" : "Stanisic",
+    "country" : "Montenegro",
+    "mail" : "damjan@gmail.com",
+    "type" : "nat_delegate",
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("6133f74494496d0488498dc3"),
+    "username" : "zucc",
+    "password" : "mark!!11Z",
+    "firstname" : "Mark",
+    "lastname" : "Zucerberg",
+    "country" : "USA",
+    "mail" : "zucc@facebook.com",
+    "type" : "comp_delegate",
+    "__v" : 0
+}

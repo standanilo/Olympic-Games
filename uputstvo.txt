@@ -1,0 +1,11 @@
+Ime baze: mydb
+
+Pre pokretanja projekta potrebno je izvrsiti sledece komande u cmd-u:
+
+npm install ngx pagination
+npm install chart.js@2.9.3 --save
+npm install ng2-charts@2.2.3 --save
+
+linkovi: 
+https://www.npmjs.com/package/ngx-pagination
+https://www.npmjs.com/package/ng2-charts

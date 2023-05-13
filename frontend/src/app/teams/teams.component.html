@@ -1,0 +1,52 @@
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="#">Menu</a></li>
+      <li class="breadcrumb-item active" aria-current="page">Team registration</li>
+    </ol>
+</nav>
+<form [formGroup]="addForm" (ngSubmit)='add()'>
+    <table class="table1">
+        <tr>
+            <td>Firstname:</td>
+            <td colspan='2'>
+                <input type='text' class="textbox" name='firstname' formControlName='firstname' required>
+            </td>
+        </tr>
+        <tr>
+            <td>Lastname:</td>
+            <td colspan='2'>
+                <input type='text' class="textbox" name='lastname' formControlName='lastname' required>
+            </td>
+        </tr>
+        <tr>
+            <td>Gender:</td>
+            <td class="centered">
+                <input type="radio" name='gender' formControlName="gender" value='male' required> M
+            </td>
+            <td class="centered">
+                <input type="radio" name='gender' formControlName="gender" value='female' required> F
+            </td>
+        </tr>
+        <tr>
+            <td>Sport:</td>
+            <td colspan="2">
+                <select formControlName="sport" name='sport' class="select1" required>
+                    <option hidden>--pick sport--</option>
+                    <option *ngFor='let s of sports'>{{s.name}}</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Discipline:</td>
+            <td colspan='2'>
+                <input type='text' class="textbox" name='discipline' formControlName='discipline' required>
+            </td>
+        </tr>
+        <tr>
+            <td colspan='3'>
+                <button type="submit" class="button1" [disabled]='addForm.invalid'>Add</button>
+            </td>
+        </tr>
+    </table>
+</form>
+<div class="red" *ngIf='message'>{{message}}</div>

@@ -1,0 +1,59 @@
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="#">Menu</a></li>
+      <li class="breadcrumb-item"><a href="members">See members</a></li>
+      <li class="breadcrumb-item active" aria-current="page">Search members</li>
+    </ol>
+  </nav>
+<div class="div1">
+    <form [formGroup]="searchForm" (ngSubmit)='search()'>
+        <table class='table1'>
+            <tr>
+                <td>Sport:</td>
+                <td colspan='3'>
+                    <select name='sport' class="select1" formControlName="sport" (change)="onChangeSport()">
+                        <option hidden> -- pick sport -- </option>
+                        <option *ngFor='let s of sports'>{{s.name}}</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Discipline:</td>
+                <td colspan='3'>
+                    <select name='discipline' class="select1" formControlName="discipline">
+                        <option hidden> -- pick discipline -- </option>
+                        <option *ngFor='let d of disciplines'>{{d.discipline}}</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td colspan='3'>
+                    <button type="submit" class="button1" [disabled]='searchForm.invalid'>Search</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+    <table class="styled-table" *ngIf='message==""'>
+        <thead>
+            <tr>
+                <th></th>
+                <th>Name</th>
+                <th>Sport</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let a of athletesDisc; let i = index" [attr.data-index]="i">
+                <td>
+                    {{i+1}}
+                </td>
+                <td>
+                    {{a.fullname}}
+                </td>
+                <td>
+                    {{a.sport}}
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <span class="red">{{message}}</span>
+</div>

@@ -1,0 +1,82 @@
+.button1 {
+  background-color: white;
+  color: rgb(119, 26, 42);
+  padding: 0px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 6px;
+  margin-left: 20px;
+}
+
+input[type='radio']:after {
+  width: 10px;
+  height: 10px;
+  border-radius: 15px;
+  top: -12px;
+  left: 0px;
+  position: relative;
+  background-color: #ffffff;
+  content: '';
+  display: inline-block;
+  visibility: visible;
+  border: 2px solid white;
+}
+
+input[type='radio']:checked:after {
+  width: 10px;
+  height: 10px;
+  border-radius: 15px;
+  top: -12px;
+  left: 0px;  
+  position: relative;
+  background-color: rgb(119, 26, 42);
+  content: '';
+  display: inline-block;
+  visibility: visible;
+  border: 2px solid white;
+}
+
+input.ng-invalid {
+  border-left: 3px solid red;
+}
+
+input.ng-valid {
+  border-left: 3px solid green;
+}
+
+ol > li {
+  color:rgb(202, 142, 157)
+}
+
+ol > li > a {
+  color:rgb(141, 12, 31)
+}
+
+ol {
+  background-color: rgb(238, 228, 231);;
+}
+
+.red {
+  color: red;
+  font-size: 12px;
+  padding: 20px;
+}
+
+.table1 {
+  margin: 20px;
+  line-height: 2.5;
+}
+
+.textbox {
+  padding: 1px;
+  height: 25px;
+  position: relative;
+  left: 1px;
+  outline: none;
+  border: 1px solid #cdcdcd;
+  border-color: rgba(0, 0, 0, .15);
+  background-color: white;
+  font-size: 14px;
+}

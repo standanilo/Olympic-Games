@@ -1,0 +1,467 @@
+{
+	"_id" : ObjectId("611908d6cf20bde87b139242"),
+	"username" : "pera",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Serbia",
+	"mail" : "pera@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("6119093fcf20bde87b139269"),
+	"username" : "mich",
+	"password" : "A!A!aaa11",
+	"firstname" : "Michael",
+	"lastname" : "Bryan",
+	"country" : "USA",
+	"mail" : "mich@gmail.com",
+	"type" : "organizer",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("611909e5cf20bde87b1392a4"),
+	"username" : "zika",
+	"password" : "Bbbb22@@",
+	"firstname" : "Zika",
+	"lastname" : "Zikic",
+	"country" : "UK",
+	"mail" : "zika@gmail.com",
+	"type" : "comp_delegate",
+	"numOfComp" : 3
+}
+{
+	"_id" : ObjectId("611909eccf20bde87b1392ab"),
+	"username" : "usain",
+	"password" : "Aaaa11!!",
+	"firstname" : "Usain",
+	"lastname" : "Bolt",
+	"country" : "Jamaica",
+	"mail" : "usain@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("611909efcf20bde87b1392ae"),
+	"username" : "tiger",
+	"password" : "a1!Aa1!Aaa",
+	"firstname" : "Tiger",
+	"lastname" : "Woods",
+	"country" : "USA",
+	"mail" : "tiger@gmail.com",
+	"type" : "comp_delegate",
+	"numOfComp" : 3
+}
+{
+	"_id" : ObjectId("61192c374b8d423d542e7304"),
+	"username" : "rafa",
+	"password" : "Cccc33##",
+	"firstname" : "Rafael",
+	"lastname" : "Nadal",
+	"country" : "Spain",
+	"mail" : "rafa@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0,
+	"__v" : 0
+}
+{
+	"_id" : ObjectId("611946d84b8d423d542e7311"),
+	"username" : "maja",
+	"password" : "Dddd44$$",
+	"firstname" : "Maja",
+	"lastname" : "Majic",
+	"country" : "Switzerland",
+	"mail" : "majic@gmail.com",
+	"type" : "comp_delegate",
+	"__v" : 0,
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("611f86fe36f5ae0edc97e190"),
+	"username" : "danilo",
+	"password" : "Aaaa11!!",
+	"firstname" : "Danilo",
+	"lastname" : "Stanisic",
+	"country" : "Serbia",
+	"mail" : "danilo@gmail.com",
+	"type" : "comp_delegate",
+	"__v" : 0,
+	"numOfComp" : 3
+}
+{
+	"_id" : ObjectId("611fb789fb973415c01e67a3"),
+	"username" : "marko",
+	"password" : "marko123!!A",
+	"firstname" : "Marko",
+	"lastname" : "Markovic",
+	"country" : "France",
+	"mail" : "marko@gmail.com",
+	"type" : "comp_delegate",
+	"numOfComp" : 3,
+	"__v" : 0
+}
+{
+	"_id" : ObjectId("6127e39658dc981538d63128"),
+	"username" : "mare",
+	"password" : "mareA!!11",
+	"firstname" : "Marko",
+	"lastname" : "Markic",
+	"country" : "UK",
+	"mail" : "marem@gmail.com",
+	"type" : "comp_delegate",
+	"numOfComp" : 0,
+	"__v" : 0
+}
+{
+	"_id" : ObjectId("6133584f1fadc97ef25e9545"),
+	"username" : "arg",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Argentina",
+	"mail" : "arg@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("6133588c1fadc97ef25e956a"),
+	"username" : "aus",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Australia",
+	"mail" : "aus@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("61335cd91fadc97ef25e9828"),
+	"username" : "bel",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Belgium",
+	"mail" : "bel@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("61335ce41fadc97ef25e982d"),
+	"username" : "bra",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Brazil",
+	"mail" : "bra@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613360911fadc97ef25e9ae9"),
+	"username" : "bul",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Bulgaria",
+	"mail" : "bul@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("6133609a1fadc97ef25e9aee"),
+	"username" : "can",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Canada",
+	"mail" : "can@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613360a71fadc97ef25e9af5"),
+	"username" : "chi",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "China",
+	"mail" : "chi@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613360b41fadc97ef25e9afb"),
+	"username" : "cro",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Croatia",
+	"mail" : "cro@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613360be1fadc97ef25e9b04"),
+	"username" : "cub",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Cuba",
+	"mail" : "cub@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613360cd1fadc97ef25e9b0a"),
+	"username" : "cze",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Czech",
+	"mail" : "cze@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613360da1fadc97ef25e9b11"),
+	"username" : "den",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Denmark",
+	"mail" : "den@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613360e41fadc97ef25e9b16"),
+	"username" : "fra",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "France",
+	"mail" : "fra@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613360ee1fadc97ef25e9b1b"),
+	"username" : "ger",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Germany",
+	"mail" : "ger@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613360fa1fadc97ef25e9b25"),
+	"username" : "hun",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Hungary",
+	"mail" : "hun@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613361061fadc97ef25e9b2a"),
+	"username" : "ira",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Iran",
+	"mail" : "ira@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613361141fadc97ef25e9b30"),
+	"username" : "ita",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Italy",
+	"mail" : "ita@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613361371fadc97ef25e9b4c"),
+	"username" : "jap",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Japan",
+	"mail" : "jap@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613361431fadc97ef25e9b51"),
+	"username" : "ken",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Kenya",
+	"mail" : "ken@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("6133614e1fadc97ef25e9b57"),
+	"username" : "kor",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Korea",
+	"mail" : "kor@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613361661fadc97ef25e9b65"),
+	"username" : "mac",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Macedonia",
+	"mail" : "mac@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613361741fadc97ef25e9b6d"),
+	"username" : "mon",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Montenegro",
+	"mail" : "mon@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("6133617c1fadc97ef25e9b72"),
+	"username" : "nz",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "NZ",
+	"mail" : "nz@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613361881fadc97ef25e9b77"),
+	"username" : "net",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Netherlands",
+	"mail" : "net@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613361951fadc97ef25e9b7d"),
+	"username" : "nor",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Norway",
+	"mail" : "nor@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613361a01fadc97ef25e9b82"),
+	"username" : "pol",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Poland",
+	"mail" : "pol@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613361aa1fadc97ef25e9b8b"),
+	"username" : "rus",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Russia",
+	"mail" : "rus@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613361b41fadc97ef25e9b90"),
+	"username" : "swe",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Sweden",
+	"mail" : "swe@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613361c81fadc97ef25e9b97"),
+	"username" : "swi",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Switzerland",
+	"mail" : "swi@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613361d31fadc97ef25e9b9c"),
+	"username" : "uk",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "UK",
+	"mail" : "uk@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613361dc1fadc97ef25e9ba1"),
+	"username" : "usa",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "USA",
+	"mail" : "usa@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("613361e71fadc97ef25e9baa"),
+	"username" : "uga",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Uganda",
+	"mail" : "uga@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+}
+{
+	"_id" : ObjectId("6133d0501fadc97ef25ec806"),
+	"username" : "gre",
+	"password" : "Aaaa11!!",
+	"firstname" : "Petar",
+	"lastname" : "Petrovic",
+	"country" : "Greece",
+	"mail" : "gre@gmail.com",
+	"type" : "nat_delegate",
+	"numOfComp" : 0
+    }

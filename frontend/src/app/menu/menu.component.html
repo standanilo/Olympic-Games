@@ -1,0 +1,45 @@
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item active" aria-current="page">Menu</li>
+  </ol>
+</nav>
+<div class='list1'>
+  <ul class="list3">
+    <li>
+      <a class="link1" routerLink="countries">COUNTRIES</a>
+    </li>
+    <li>
+      <a class="link1" routerLink="medals">MEDALS</a>
+    </li>
+    <li>
+      <a class="link1" routerLink="athletes">ATHLETES</a>
+    </li>
+    <li *ngIf="this.type()=='organizer'">
+      <a class="link1" routerLink="sports">ADD SPORTS</a>
+    </li>
+    <li *ngIf="this.type()=='organizer'">
+      <a class="link1" routerLink="disciplines">ADD DISCIPLINES</a>
+    </li>
+    <li *ngIf="this.type()=='organizer'">
+      <a class="link1" routerLink="competitions">ADD COMPETITION</a>
+    </li>
+    <li *ngIf="this.type()=='organizer'">
+      <a class="link1" routerLink="requests">REGISTER REQUESTS</a>
+    </li>
+    <li *ngIf="this.type()=='organizer'">
+      <a class="link1" routerLink="records">RECORDS</a>
+    </li>
+    <li *ngIf="this.type()=='comp_delegate'">
+      <a class="link1" routerLink="schedule">SET SCHEDULE</a>
+    </li>
+    <li *ngIf="this.type()=='comp_delegate'">
+      <a class="link1" routerLink="results">ADD RESULTS</a>
+    </li>
+    <li *ngIf="this.type()=='nat_delegate'">
+      <a class="link1" routerLink="teams">TEAM REGISTRATION</a>
+    </li>
+    <li *ngIf="this.type()=='nat_delegate'">
+      <a class="link1" routerLink="members">SEE MEMBERS</a>
+    </li>
+  </ul>
+</div>

@@ -1,0 +1,480 @@
+{
+	"_id" : ObjectId("611bdcb3d837ec41d5f2bc38"),
+	"discipline" : "100m",
+	"result" : "9.63s",
+	"athlete" : "Usain Bolt",
+	"country" : "Jamaica",
+	"venue" : "Olympic Stadium, London (GBR)",
+	"year" : "2012",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611bdee9d837ec41d5f2bcfa"),
+	"discipline" : "200m",
+	"result" : "19.30",
+	"athlete" : "Usain Bolt",
+	"country" : "Jamaica",
+	"venue" : "National Stadium, Beijing (CHN)",
+	"year" : "2008",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611bdf26d837ec41d5f2bd10"),
+	"discipline" : "400m",
+	"result" : "43.03",
+	"athlete" : "Wayde Van Niekerk",
+	"country" : "South Africa",
+	"venue" : "Estadio Olimpico, Rio de Janeiro (BRA)",
+	"year" : "2016",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611bdf5ad837ec41d5f2bd2e"),
+	"discipline" : "800m",
+	"result" : "1:40.91",
+	"athlete" : "David Rudisha",
+	"country" : "Kenya",
+	"venue" : "Olympic Stadium, London (GBR)",
+	"year" : "2012",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611bdf91d837ec41d5f2bd44"),
+	"discipline" : "1500m",
+	"result" : "3:28.32",
+	"athlete" : "Jakob Ingebrigtsen",
+	"country" : "Norway",
+	"venue" : "Olympic Stadium, Tokyo (JPN)",
+	"year" : "2021",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be015d837ec41d5f2bd73"),
+	"discipline" : "5000m",
+	"result" : "12:57.82",
+	"athlete" : "Kenenisa Bekele",
+	"country" : "Ethiopia",
+	"venue" : "National Stadium, Beijing (CHN)",
+	"year" : "2008",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be022d837ec41d5f2bd84"),
+	"discipline" : "10000m",
+	"result" : "27:01.17",
+	"athlete" : "Kenenisa Bekele",
+	"country" : "Ethiopia",
+	"venue" : "National Stadium, Beijing (CHN)",
+	"year" : "2008",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be067d837ec41d5f2bda8"),
+	"discipline" : "marathon",
+	"result" : "2:06:32",
+	"athlete" : "Samuel Kamau Wanjiru",
+	"country" : "Kenya",
+	"venue" : "National Stadium, Beijing (CHN)",
+	"year" : "2008",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be0a8d837ec41d5f2bdca"),
+	"discipline" : "3000m steeplechase",
+	"result" : "8:03:28",
+	"athlete" : "Conseslus Kipruto",
+	"country" : "Kenya",
+	"venue" : "Estadio Olimpico, Rio de Janeiro (BRA)",
+	"year" : "2016",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be0d1d837ec41d5f2bddf"),
+	"discipline" : "110m hurdles",
+	"result" : "12.91",
+	"athlete" : "Xiang Liu",
+	"country" : "China",
+	"venue" : "Olympic Stadium, Athina (GRE)",
+	"year" : "2004",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be0fad837ec41d5f2bdf0"),
+	"discipline" : "400m hurdles",
+	"result" : "35.94",
+	"athlete" : "Karsten Warholm",
+	"country" : "Norway",
+	"venue" : "Olympic Stadium, Tokyo (JPN)",
+	"year" : "2021",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be126d837ec41d5f2be04"),
+	"discipline" : "high jump",
+	"result" : "2.39",
+	"athlete" : "Charles Austin",
+	"country" : "USA",
+	"venue" : "Olympic Stadium, Atlanta, GA (USA)",
+	"year" : "1996",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be17dd837ec41d5f2be38"),
+	"discipline" : "pole vault",
+	"result" : "6.03",
+	"athlete" : "Thiago Braz",
+	"country" : "Brazil",
+	"venue" : "Estadio Olimpico, Rio de Janeiro (BRA)",
+	"year" : "2016",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be1a8d837ec41d5f2be62"),
+	"discipline" : "long jump",
+	"result" : "8.90",
+	"athlete" : "Bob Beamon",
+	"country" : "USA",
+	"venue" : "Estadio Olimpico, Ciudad de México (MEX)",
+	"year" : "1968",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be1d0d837ec41d5f2be7d"),
+	"discipline" : "triple jump",
+	"result" : "18.09",
+	"athlete" : "Kenny Harrison",
+	"country" : "USA",
+	"venue" : "Olympic Stadium, Atlanta, GA (USA)",
+	"year" : "1996",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be1f7d837ec41d5f2be99"),
+	"discipline" : "shot put",
+	"result" : "23.30",
+	"athlete" : "Ryan Crouser",
+	"country" : "USA",
+	"venue" : "Olympic Stadium, Tokyo (JPN)",
+	"year" : "2021",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be227d837ec41d5f2beb7"),
+	"discipline" : "discus throw",
+	"result" : "69.89",
+	"athlete" : "Virgilijus Alekna",
+	"country" : "Lithuania",
+	"venue" : "Olympic Stadium, Athina (GRE)",
+	"year" : "2004",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be287d837ec41d5f2bef6"),
+	"discipline" : "hammer throw",
+	"result" : "84.80",
+	"athlete" : "Sergey Litvinov",
+	"country" : "URSS",
+	"venue" : "Olympic Stadium, Jamsil, Seoul (KOR)",
+	"year" : "1988",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be2b4d837ec41d5f2bf16"),
+	"discipline" : "javelin throw",
+	"result" : "90.57",
+	"athlete" : "Andreas Thorkildsen",
+	"country" : "Norway",
+	"venue" : "National Stadium, Beijing (CHN)",
+	"year" : "2008",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be344d837ec41d5f2bf6c"),
+	"discipline" : "decathlon",
+	"result" : "9018",
+	"athlete" : "Damian Warner",
+	"country" : "Canada",
+	"venue" : "Olympic Stadium, Tokyo (JPN)",
+	"year" : "2021",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be36ed837ec41d5f2bf87"),
+	"discipline" : "20km race walk",
+	"result" : "1:18:46",
+	"athlete" : "Ding Chen",
+	"country" : "China",
+	"venue" : "Olympic Stadium, London (GBR)",
+	"year" : "2012",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be392d837ec41d5f2bf9c"),
+	"discipline" : "50km race walk",
+	"result" : "3:36:53",
+	"athlete" : "Jared Tallent",
+	"country" : "Australia",
+	"venue" : "Olympic Stadium, London (GBR)",
+	"year" : "2012",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be3bad837ec41d5f2bfb7"),
+	"discipline" : "4x100m relay",
+	"result" : "36.84",
+	"athlete" : "Jamaica",
+	"country" : "Jamaica",
+	"venue" : "Olympic Stadium, London (GBR)",
+	"year" : "2012",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be3dbd837ec41d5f2bfd2"),
+	"discipline" : "4x400m relay",
+	"result" : "2:55.39",
+	"athlete" : "USA",
+	"country" : "USA",
+	"venue" : "National Stadium, Beijing (CHN)",
+	"year" : "2008",
+	"gender" : "male"
+}
+{
+	"_id" : ObjectId("611be40cd837ec41d5f2bffa"),
+	"discipline" : "100m",
+	"result" : "10.61",
+	"athlete" : "Elaine Thompson-Herah",
+	"country" : "Jamaica",
+	"venue" : "Olympic Stadium, Tokyo (JPN)",
+	"year" : "2021",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be430d837ec41d5f2c004"),
+	"discipline" : "200m",
+	"result" : "21.34",
+	"athlete" : "Florence Griffith-Joyner",
+	"country" : "USA",
+	"venue" : "Olympic Stadium, Jamsil, Seoul (KOR)",
+	"year" : "1988",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be44bd837ec41d5f2c00f"),
+	"discipline" : "400m",
+	"result" : "48.25",
+	"athlete" : "Maria-Jose Perec",
+	"country" : "France",
+	"venue" : "Olympic Stadium, Atlanta, GA (USA)",
+	"year" : "1996",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be47ad837ec41d5f2c01d"),
+	"discipline" : "800m",
+	"result" : "1:53.43",
+	"athlete" : "Nadezhda Olizarenko",
+	"country" : "URSS",
+	"venue" : "Lenin Stadium, Moskva (URS)",
+	"year" : "1980",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be4a2d837ec41d5f2c028"),
+	"discipline" : "1500m",
+	"result" : "3:53.11",
+	"athlete" : "Faith Kipyegon",
+	"country" : "Kenya",
+	"venue" : "Olympic Stadium, Tokyo (JPN)",
+	"year" : "2021",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be4c0d837ec41d5f2c033"),
+	"discipline" : "3000m",
+	"result" : "8:26.53",
+	"athlete" : "Tatyana Samolenko",
+	"country" : "URSS",
+	"venue" : "Olympic Stadium, Jamsil, Seoul (KOR)",
+	"year" : "1988",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be507d837ec41d5f2c054"),
+	"discipline" : "5000m",
+	"result" : "14:26.17",
+	"athlete" : "Vivian Jepkemoi Cheruiyot",
+	"country" : "Kenya",
+	"venue" : "Estadio Olimpico, Rio de Janeiro (BRA)",
+	"year" : "2016",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be51dd837ec41d5f2c05c"),
+	"discipline" : "10000m",
+	"result" : "29:17.45",
+	"athlete" : "Almaz Ayana",
+	"country" : "Ethiopia",
+	"venue" : "Estadio Olimpico, Rio de Janeiro (BRA)",
+	"year" : "2016",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be53ad837ec41d5f2c06a"),
+	"discipline" : "marathon",
+	"result" : "2:23:07",
+	"athlete" : "Tiki Gelana",
+	"country" : "Ethiopia",
+	"venue" : "Olympic Stadium, London (GBR)",
+	"year" : "2012",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be564d837ec41d5f2c078"),
+	"discipline" : "3000m steeplechase",
+	"result" : "8:58.81",
+	"athlete" : "Gulnara Samitova-Galkina",
+	"country" : "Russia",
+	"venue" : "National Stadium, Beijing (CHN)",
+	"year" : "2008",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be599d837ec41d5f2c089"),
+	"discipline" : "100m hurdles",
+	"result" : "12.26",
+	"athlete" : "Jasmine Camacho-Quinn",
+	"country" : "Puerto Rico",
+	"venue" : "Olympic Stadium, Tokyo (JPN)",
+	"year" : "2021",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be5b6d837ec41d5f2c094"),
+	"discipline" : "400m hurdles",
+	"result" : "51.46",
+	"athlete" : "Sydney McLaughlin",
+	"country" : "USA",
+	"venue" : "Olympic Stadium, Tokyo (JPN)",
+	"year" : "2021",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be5ded837ec41d5f2c0a1"),
+	"discipline" : "high jump",
+	"result" : "2.06",
+	"athlete" : "Yelena Slesarenko",
+	"country" : "Russia",
+	"venue" : "Olympic Stadium, Athina (GRE)",
+	"year" : "2004",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be5fdd837ec41d5f2c0ae"),
+	"discipline" : "pole vault",
+	"result" : "5.05",
+	"athlete" : "Yelena Isinbayeva",
+	"country" : "Russia",
+	"venue" : "National Stadium, Beijing (CHN)",
+	"year" : "2008",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be620d837ec41d5f2c0ba"),
+	"discipline" : "long jump",
+	"result" : "7.40",
+	"athlete" : "Jackie Joyner-Kersee",
+	"country" : "USA",
+	"venue" : "Olympic Stadium, Jamsil, Seoul (KOR)",
+	"year" : "1988",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be644d837ec41d5f2c0c7"),
+	"discipline" : "triple jump",
+	"result" : "15.67",
+	"athlete" : "Yulimar Rojas",
+	"country" : "Venezuela",
+	"venue" : "Olympic Stadium, Tokyo (JPN)",
+	"year" : "2021",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be676d837ec41d5f2c0db"),
+	"discipline" : "shot put",
+	"result" : "22.41",
+	"athlete" : "Ilona Slupianek",
+	"country" : "East Germany",
+	"venue" : "Lenin Stadium, Moskva (URS)",
+	"year" : "1980",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be697d837ec41d5f2c0e7"),
+	"discipline" : "discus throw",
+	"result" : "72.30",
+	"athlete" : "Martina Hellmann",
+	"country" : "East Germany",
+	"venue" : "Olympic Stadium, Jamsil, Seoul (KOR)",
+	"year" : "1988",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be6bed837ec41d5f2c0f4"),
+	"discipline" : "hammer throw",
+	"result" : "82.29",
+	"athlete" : "Anita Wlodarczyk",
+	"country" : "Polank",
+	"venue" : "Estadio Olimpico, Rio de Janeiro (BRA)",
+	"year" : "2016",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be6e2d837ec41d5f2c100"),
+	"discipline" : "javelin throw",
+	"result" : "71.53",
+	"athlete" : "Olisdeilys Menendez",
+	"country" : "Cuba",
+	"venue" : "Olympic Stadium, Athina (GRE)",
+	"year" : "2004",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be708d837ec41d5f2c10d"),
+	"discipline" : "heptathlon",
+	"result" : "7291",
+	"athlete" : "Jackie Joyner-Kersee",
+	"country" : "USA",
+	"venue" : "Olympic Stadium, Jamsil, Seoul (KOR)",
+	"year" : "1988",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be72dd837ec41d5f2c11b"),
+	"discipline" : "20km race walk",
+	"result" : "1:25:02",
+	"athlete" : "Yelena Lashmanova",
+	"country" : "Russia",
+	"venue" : "Olympic Stadium, London (GBR)",
+	"year" : "2012",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be73fd837ec41d5f2c122"),
+	"discipline" : "4x100m relay",
+	"result" : "40.82",
+	"athlete" : "USA",
+	"country" : "USA",
+	"venue" : "Olympic Stadium, London (GBR)",
+	"year" : "2012",
+	"gender" : "female"
+}
+{
+	"_id" : ObjectId("611be75ed837ec41d5f2c12f"),
+	"discipline" : "4x400m relay",
+	"result" : "3:15.17",
+	"athlete" : "Soviet Union",
+	"country" : "URSS",
+	"venue" : "Olympic Stadium, Jamsil, Seoul (KOR)",
+	"year" : "1988",
+	"gender" : "female"
+}

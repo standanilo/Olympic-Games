@@ -1,0 +1,42 @@
+.link1 {
+    color: rgb(177, 29, 51);
+    margin: 20px;
+    line-height: 2;
+}
+
+.link1:link {
+    text-decoration: none;
+}
+
+.link1:visited {
+    text-decoration: none;
+}
+
+.link1:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.link1:active {
+  text-decoration: underline;
+}
+
+.list1 {
+  margin: 20px 10px 40px 0px;
+}
+
+.list3 {
+  display: inline;
+}
+
+ol {
+  background-color: rgb(238, 228, 231);;
+}
+
+ol > li {
+  color:rgb(202, 142, 157)
+}
+
+ol > li > a {
+  color:rgb(141, 12, 31)
+}

@@ -1,0 +1,46 @@
+{
+    "_id" : ObjectId("611aee4ecf20bde87b13bb2e"),
+    "name" : "basketball"
+}
+{
+    "_id" : ObjectId("611aee5bcf20bde87b13bb3e"),
+    "name" : "athletics"
+}
+{
+    "_id" : ObjectId("611aee62cf20bde87b13bb42"),
+    "name" : "tennis"
+}
+{
+    "_id" : ObjectId("611aee6acf20bde87b13bb46"),
+    "name" : "cycling"
+}
+{
+    "_id" : ObjectId("611aee73cf20bde87b13bb4b"),
+    "name" : "voleyball"
+}
+{
+    "_id" : ObjectId("611af823d837ec41d5f29a5c"),
+    "name" : "taekwondo"
+}
+{
+    "_id" : ObjectId("611b850bd837ec41d5f29c03"),
+    "name" : "waterpolo"
+}
+{
+    "_id" : ObjectId("611b8541d837ec41d5f29c1e"),
+    "name" : "karate"
+}
+{
+    "_id" : ObjectId("611b9af54cee503694599af1"),
+    "name" : "football",
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("6127e29b58dc981538d63126"),
+    "name" : "shooting",
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("613359ab1fadc97ef25e9607"),
+    "name" : "swimming"
+}

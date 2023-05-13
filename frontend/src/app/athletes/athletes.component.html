@@ -1,0 +1,112 @@
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="#">Menu</a></li>
+      <li class="breadcrumb-item active" aria-current="page">Athletes</li>
+    </ol>
+</nav>
+<form>
+    <table class='table1'>
+        <tr>
+            <td>Fullname:</td>
+            <td colspan='3'>
+                <input type='text' class="textbox" name='fullname' [(ngModel)]='fullname'>
+            </td>
+        </tr>
+        <tr>
+            <td>Country:</td>
+            <td colspan='3'>
+                <select class="select1" name='country' [(ngModel)]='country'>
+                    <option value="" selected> All countries </option>
+                    <option *ngFor='let c of countries'>{{c.name}}</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Sport:</td>
+            <td colspan='3'>
+                <select class="select1" name='sport' [(ngModel)]='sport'>
+                    <option value="" selected> All sports </option>
+                    <option *ngFor='let s of sports'>{{s.name}}</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Discipline:</td>
+            <td colspan='3'>
+                <select class="select1" name='discipline' [(ngModel)]='discipline'>
+                    <option value="" selected> All disciplines </option>
+                    <option *ngFor='let d of disciplines'>{{d.sport}}-{{d.discipline}}</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Gender:</td>
+            <td class="centered">
+                <input type="radio" name='gender' value="" [(ngModel)]='gender'>  All
+            </td>
+            <td class="centered">
+                <input type="radio" name='gender' value='male' [(ngModel)]='gender'>    M
+            </td>
+            <td class="centered">
+                <input type="radio" name='gender' value='female' [(ngModel)]='gender'>  F
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td colspan='3'>
+                <input type="checkbox" name='medals' value="medals" [(ngModel)]='medals'>    only medal winners
+            </td>
+        </tr>
+        <tr>
+            <td colspan='3'>
+                <button class="button1" (click)='search()'>Search</button>
+            </td>
+        </tr>
+    </table>
+</form>
+<table class="styled-table" *ngIf='length!=0'>
+    <thead>
+        <tr>
+            <th>Fullname</th>
+            <th>Country</th>
+            <th>Sport</th>
+            <th>Discipline</th>
+            <th>Gender</th>
+            <th>Medals</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor='let a of athletes | paginate: { itemsPerPage: n, currentPage: p }'>
+            <td>
+                {{a.fullname}}
+            </td>
+            <td>
+                {{a.country}}
+            </td>
+            <td>
+                {{a.sport}}
+            </td>
+            <td>
+                {{a.discipline}}
+            </td>
+            <td>
+                {{a.gender}}
+            </td>
+            <td>
+                {{a.medals}}
+            </td>
+        </tr>
+    </tbody>
+</table>
+<div class="div1" *ngIf='length!=0'>
+    <pagination-controls (pageChange)="p = $event" autoHide="true"></pagination-controls>
+    <span class="span1">Items per page 
+        <button class="myButton" (click)="n=10">10</button>
+        <button class="myButton" (click)="n=20">20</button>
+        <button class="myButton" (click)="n=50">50</button>
+        <button class="myButton" (click)="n=100">100</button>
+    </span>
+</div>
+<div *ngIf='message' class='red'>
+    {{message}}
+</div>

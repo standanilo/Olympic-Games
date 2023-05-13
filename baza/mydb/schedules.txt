@@ -1,0 +1,1013 @@
+{
+    "_id" : ObjectId("6133dc37c12ff5370c772320"),
+    "delegate" : [ 
+        "Danilo Stanisic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "613373b4c12ff5370c7721d7",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Maximilian Schachmann",
+            "country" : "Germany",
+            "index" : 1,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61336790c12ff5370c772189",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Josip Rumac",
+            "country" : "Croatia",
+            "index" : 2,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61336cc3c12ff5370c7721bc",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "David Gaudu",
+            "country" : "France",
+            "index" : 3,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339c58c12ff5370c77224e",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "George Bennett",
+            "country" : "NZ",
+            "index" : 4,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61335d18c12ff5370c772142",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Wout Van Aert",
+            "country" : "Belgium",
+            "index" : 5,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "613373a7c12ff5370c7721d6",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Nikias Arndt",
+            "country" : "Germany",
+            "index" : 6,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61337f7ac12ff5370c7721fb",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Gianni Moscon",
+            "country" : "Italy",
+            "index" : 7,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339788c12ff5370c772220",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Nariyuki Masuda",
+            "country" : "Japan",
+            "index" : 8,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "6133ca81c12ff5370c7722cf",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Brandon McNulty",
+            "country" : "USA",
+            "index" : 9,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339fb3c12ff5370c77227a",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Michal Kwiatkowski",
+            "country" : "Poland",
+            "index" : 10,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "cycling/225km street race",
+    "hour" : "22:00",
+    "date" : ISODate("2021-09-11T00:00:00.000Z"),
+    "round" : "finals",
+    "gender" : "male",
+    "location" : "Tokyo Streets",
+    "finished" : true,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("6133dc7ac12ff5370c772321"),
+    "delegate" : [ 
+        "Danilo Stanisic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "61335aafc12ff5370c772122",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Kurtis Marschall",
+            "country" : "Australia",
+            "index" : 1,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "613368d9c12ff5370c772195",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Yarisley Silva",
+            "country" : "Cuba",
+            "index" : 2,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "6133c935c12ff5370c7722c1",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Chris Nilsen",
+            "country" : "USA",
+            "index" : 3,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "6133cc43c12ff5370c7722de",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Harry Coppell",
+            "country" : "UK",
+            "index" : 4,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "61336c88c12ff5370c7721b9",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Renaud  Lavillenie",
+            "country" : "France",
+            "index" : 5,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "613358cfc12ff5370c772112",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "German Chiaraviglio",
+            "country" : "Argentina",
+            "index" : 6,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "6133a2d8c12ff5370c77229e",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Armand Duplantis",
+            "country" : "Sweden",
+            "index" : 7,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "61339f3ec12ff5370c772272",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Pawel Wojciechowski",
+            "country" : "Poland",
+            "index" : 8,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "athletics/pole vault",
+    "hour" : "22:20",
+    "date" : ISODate("2021-09-06T00:00:00.000Z"),
+    "round" : "finals",
+    "gender" : "male",
+    "location" : "Tokyo Metropolitan Gymnasium",
+    "finished" : true,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("6133dcafc12ff5370c772322"),
+    "delegate" : [ 
+        "Danilo Stanisic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61338285c12ff5370c77220c",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Oblique Seville",
+            "country" : "Jamaica",
+            "index" : 1,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "6133c9f5c12ff5370c7722c8",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Ronnie Baker",
+            "country" : "USA",
+            "index" : 2,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m", 
+                "100m"
+            ],
+            "_id" : "61336362c12ff5370c772163",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Andre De Grasse",
+            "country" : "Canada",
+            "index" : 3,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61337dbfc12ff5370c7721f5",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Marcell Jacobs",
+            "country" : "Italy",
+            "index" : 4,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "6133c918c12ff5370c7722bf",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Fred Kerley",
+            "country" : "USA",
+            "index" : 5,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "6133827ec12ff5370c77220b",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Yohan Blake",
+            "country" : "Jamaica",
+            "index" : 6,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61336627c12ff5370c77217c",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Su Bingtian",
+            "country" : "China",
+            "index" : 7,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61335a43c12ff5370c77211a",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Rohan Browning",
+            "country" : "Australia",
+            "index" : 8,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "athletics/100m",
+    "hour" : "22:55",
+    "date" : ISODate("2021-09-07T00:00:00.000Z"),
+    "round" : "finals",
+    "gender" : "male",
+    "location" : "Tokyo Metropolitan Gymnasium",
+    "finished" : false,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("6134078ed1b7231dc4cd4c3d"),
+    "delegate" : [ 
+        "Zika Zikic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "6133a229c12ff5370c772296",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Andrey Minakov",
+            "country" : "Russia",
+            "index" : 1,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle", 
+                "100m butterfly"
+            ],
+            "_id" : "6133a23bc12ff5370c772298",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Mikhail Vekovishchev",
+            "country" : "Russia",
+            "index" : 2,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61336299c12ff5370c772161",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Josif Miladinov",
+            "country" : "Bulgaria",
+            "index" : 3,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "6133a413c12ff5370c7722b3",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Noe Ponti",
+            "country" : "Switzerland",
+            "index" : 4,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "6133c8cbc12ff5370c7722bb",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Caeleb Dressel",
+            "country" : "USA",
+            "index" : 5,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "6133600ec12ff5370c77215a",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Vinicius Lanza",
+            "country" : "Brazil",
+            "index" : 6,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61335bfec12ff5370c772139",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "David Morgan",
+            "country" : "Australia",
+            "index" : 7,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61337a99c12ff5370c7721e2",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Kristof Milak",
+            "country" : "Hungary",
+            "index" : 8,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "swimming/100m butterfly",
+    "hour" : "01:00",
+    "date" : ISODate("2021-09-17T00:00:00.000Z"),
+    "round" : "finals",
+    "gender" : "male",
+    "location" : "Sapporo Dome",
+    "finished" : true,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("613407d0d1b7231dc4cd4c3e"),
+    "delegate" : [ 
+        "Zika Zikic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "613399f7c12ff5370c772241",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Hwang Sun-woo",
+            "country" : "Korea",
+            "index" : 1,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "6133cae8c12ff5370c7722d3",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Kieran Smith",
+            "country" : "USA",
+            "index" : 2,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle", 
+                "100m butterfly"
+            ],
+            "_id" : "6133a23bc12ff5370c772298",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Mikhail Vekovishchev",
+            "country" : "Russia",
+            "index" : 3,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "6133a232c12ff5370c772297",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Martin Malyutin",
+            "country" : "Russia",
+            "index" : 4,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "6133cb99c12ff5370c7722da",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Duncan Scott",
+            "country" : "UK",
+            "index" : 5,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle", 
+                "100m butterfly"
+            ],
+            "_id" : "613367d7c12ff5370c77218d",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Nikola Miljenic",
+            "country" : "Croatia",
+            "index" : 6,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "61335f28c12ff5370c77214f",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Fernando Scheffer",
+            "country" : "Brazil",
+            "index" : 7,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "6133cb79c12ff5370c7722d8",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Tom Dean",
+            "country" : "UK",
+            "index" : 8,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "swimming/200m freestyle",
+    "hour" : "01:00",
+    "date" : ISODate("2021-09-19T00:00:00.000Z"),
+    "round" : "finals",
+    "gender" : "male",
+    "location" : "Sapporo Dome",
+    "finished" : true,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("613407f9d1b7231dc4cd4c3f"),
+    "delegate" : [ 
+        "Zika Zikic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "61336d88c12ff5370c7721c6",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Jeremy Chardy",
+            "country" : "France",
+            "index" : 1,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "61336db1c12ff5370c7721c9",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Ugo Humbert",
+            "country" : "France",
+            "index" : 2,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "tennis/single",
+    "hour" : "00:00",
+    "date" : ISODate("2021-09-18T00:00:00.000Z"),
+    "round" : "quarterfinals",
+    "gender" : "male",
+    "location" : "Tokyo Metropolitan Gymnasium",
+    "finished" : true,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("613407f9d1b7231dc4cd4c40"),
+    "delegate" : [ 
+        "Zika Zikic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "6133a162c12ff5370c77228b",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Karen Khachanov",
+            "country" : "Russia",
+            "index" : 5,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "613341bfc12ff5370c7720e5",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Pablo Carreno",
+            "country" : "Spain",
+            "index" : 6,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "tennis/single",
+    "hour" : "00:00",
+    "date" : ISODate("2021-09-18T00:00:00.000Z"),
+    "round" : "quarterfinals",
+    "gender" : "male",
+    "location" : "Tokyo Metropolitan Gymnasium",
+    "finished" : true,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("613407f9d1b7231dc4cd4c41"),
+    "delegate" : [ 
+        "Zika Zikic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "6133731fc12ff5370c7721ce",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Alexander Zverev",
+            "country" : "Germany",
+            "index" : 7,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "6133a168c12ff5370c77228c",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Daniil Medvedev",
+            "country" : "Russia",
+            "index" : 8,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "tennis/single",
+    "hour" : "00:00",
+    "date" : ISODate("2021-09-18T00:00:00.000Z"),
+    "round" : "quarterfinals",
+    "gender" : "male",
+    "location" : "Tokyo Metropolitan Gymnasium",
+    "finished" : true,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("613407f9d1b7231dc4cd4c43"),
+    "delegate" : [ 
+        "Zika Zikic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "61336db1c12ff5370c7721c9",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Ugo Humbert",
+            "country" : "France",
+            "index" : 2,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "6133a168c12ff5370c77228c",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Daniil Medvedev",
+            "country" : "Russia",
+            "index" : 8,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "tennis/single",
+    "hour" : "00:00",
+    "date" : ISODate("2021-09-19T00:00:00.000Z"),
+    "round" : "semifinals",
+    "gender" : "male",
+    "location" : "Tokyo Metropolitan Gymnasium",
+    "finished" : true,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("613407f9d1b7231dc4cd4c42"),
+    "delegate" : [ 
+        "Zika Zikic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "613341bfc12ff5370c7720e5",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Pablo Carreno",
+            "country" : "Spain",
+            "index" : 6,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "61334fccc12ff5370c7720fb",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Novak Djokovic",
+            "country" : "Serbia",
+            "index" : 4,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "tennis/single",
+    "hour" : "00:00",
+    "date" : ISODate("2021-09-19T00:00:00.000Z"),
+    "round" : "semifinals",
+    "gender" : "male",
+    "location" : "Tokyo Metropolitan Gymnasium",
+    "finished" : true,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("613407f9d1b7231dc4cd4c45"),
+    "delegate" : [ 
+        "Zika Zikic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "6133a168c12ff5370c77228c",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Daniil Medvedev",
+            "country" : "Russia",
+            "index" : 8,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "613341bfc12ff5370c7720e5",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Pablo Carreno",
+            "country" : "Spain",
+            "index" : 6,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "tennis/single",
+    "hour" : "00:00",
+    "date" : ISODate("2021-09-20T00:00:00.000Z"),
+    "round" : "finals",
+    "gender" : "male",
+    "location" : "Tokyo Metropolitan Gymnasium",
+    "finished" : true,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("613407f9d1b7231dc4cd4c44"),
+    "delegate" : [ 
+        "Zika Zikic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "61339881c12ff5370c77222d",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Kei Nishikori",
+            "country" : "Japan",
+            "index" : 3,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "61334fccc12ff5370c7720fb",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Novak Djokovic",
+            "country" : "Serbia",
+            "index" : 4,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "tennis/single",
+    "hour" : "00:00",
+    "date" : ISODate("2021-09-18T00:00:00.000Z"),
+    "round" : "quarterfinals",
+    "gender" : "male",
+    "location" : "Tokyo Metropolitan Gymnasium",
+    "finished" : true,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("613407f9d1b7231dc4cd4c46"),
+    "delegate" : [ 
+        "Zika Zikic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "61336db1c12ff5370c7721c9",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Ugo Humbert",
+            "country" : "France",
+            "index" : 2,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "61334fccc12ff5370c7720fb",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Novak Djokovic",
+            "country" : "Serbia",
+            "index" : 4,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "tennis/single",
+    "hour" : "00:00",
+    "date" : ISODate("2021-09-20T00:00:00.000Z"),
+    "round" : "third place",
+    "gender" : "male",
+    "location" : "Tokyo Metropolitan Gymnasium",
+    "finished" : true,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("61340bd68b25a42720def32b"),
+    "delegate" : null,
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "200m freestyle", 
+                "100m butterfly"
+            ],
+            "_id" : "6133a23bc12ff5370c772298",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Mikhail Vekovishchev",
+            "country" : "Russia",
+            "index" : 2,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61335bfec12ff5370c772139",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "David Morgan",
+            "country" : "Australia",
+            "index" : 7,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "swimming/100m butterfly",
+    "hour" : "01:00",
+    "date" : ISODate("2021-09-17T00:00:00.000Z"),
+    "round" : "tiebreak",
+    "gender" : "male",
+    "location" : null,
+    "finished" : false,
+    "__v" : 0
+}

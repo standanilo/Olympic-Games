@@ -1,0 +1,3439 @@
+{
+    "_id" : ObjectId("6133d6c4c12ff5370c772314"),
+    "delegate" : [ 
+        "Danilo Stanisic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61335a43c12ff5370c77211a",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Rohan Browning",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61335f8bc12ff5370c772154",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Paulo André de Oliveira",
+            "country" : "Brazil",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m", 
+                "100m"
+            ],
+            "_id" : "61336362c12ff5370c772163",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Andre De Grasse",
+            "country" : "Canada",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61336627c12ff5370c77217c",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Su Bingtian",
+            "country" : "China",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61336b79c12ff5370c7721ac",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Kojo Musah",
+            "country" : "Denmark",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61336c58c12ff5370c7721b5",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Jimmy Vicaut",
+            "country" : "France",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61337d0cc12ff5370c7721ef",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Hassan Taftian",
+            "country" : "Iran",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61337dbfc12ff5370c7721f5",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Marcell Jacobs",
+            "country" : "Italy",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61337df9c12ff5370c7721f7",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Filippo Tortu",
+            "country" : "Italy",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "6133827ec12ff5370c77220b",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Yohan Blake",
+            "country" : "Jamaica",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61338285c12ff5370c77220c",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Oblique Seville",
+            "country" : "Jamaica",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "6133828dc12ff5370c77220d",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Tyquendo Tracey",
+            "country" : "Jamaica",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61339719c12ff5370c772219",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Yuki Koike",
+            "country" : "Japan",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61339725c12ff5370c77221a",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Ryota Yamagata",
+            "country" : "Japan",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "613398e0c12ff5370c77222f",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Ferdinand Omurwa",
+            "country" : "Kenya",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "6133c918c12ff5370c7722bf",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Fred Kerley",
+            "country" : "USA",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "6133c9f5c12ff5370c7722c8",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Ronnie Baker",
+            "country" : "USA",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "athletics",
+    "discipline" : "100m",
+    "type" : "individual",
+    "format" : "1xSS,TT",
+    "dateFrom" : ISODate("2021-09-02T00:00:00.000Z"),
+    "dateTo" : ISODate("2021-09-08T00:00:00.000Z"),
+    "location" : "Tokyo Metropolitan Gymnasium",
+    "gender" : "male",
+    "finished" : false,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("6133d74fc12ff5370c772315"),
+    "delegate" : [ 
+        "Danilo Stanisic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "613358cfc12ff5370c772112",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "German Chiaraviglio",
+            "country" : "Argentina",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "61335aafc12ff5370c772122",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Kurtis Marschall",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "61335f38c12ff5370c772150",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Thiago Braz",
+            "country" : "Brazil",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "613368d9c12ff5370c772195",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Yarisley Silva",
+            "country" : "Cuba",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "61336c88c12ff5370c7721b9",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Renaud  Lavillenie",
+            "country" : "France",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "61339949c12ff5370c772234",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Jin Min-sub",
+            "country" : "Korea",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "61339d11c12ff5370c772259",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Menno Vloon",
+            "country" : "Netherlands",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "61339f2fc12ff5370c772270",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Piotr Lisek",
+            "country" : "Poland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "61339f36c12ff5370c772271",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Robert Sobera",
+            "country" : "Poland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "61339f3ec12ff5370c772272",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Pawel Wojciechowski",
+            "country" : "Poland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "6133a2d8c12ff5370c77229e",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Armand Duplantis",
+            "country" : "Sweden",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "6133c935c12ff5370c7722c1",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Chris Nilsen",
+            "country" : "USA",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "6133cc43c12ff5370c7722de",
+            "sport" : "athletics",
+            "gender" : "male",
+            "fullname" : "Harry Coppell",
+            "country" : "UK",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "athletics",
+    "discipline" : "pole vault",
+    "type" : "individual",
+    "format" : "3xM,CM",
+    "dateFrom" : ISODate("2021-09-02T00:00:00.000Z"),
+    "dateTo" : ISODate("2021-09-07T00:00:00.000Z"),
+    "location" : "Tokyo Metropolitan Gymnasium",
+    "gender" : "male",
+    "finished" : true,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("6133d799c12ff5370c772316"),
+    "delegate" : [ 
+        "Danilo Stanisic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "6133408fc12ff5370c7720df",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Omar Fraile",
+            "country" : "Spain",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "613340c2c12ff5370c7720e0",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Jesus Herrada",
+            "country" : "Spain",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "613340cdc12ff5370c7720e1",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Gorka Izagirre",
+            "country" : "Spain",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "613340dac12ff5370c7720e2",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Alejandro Valverde",
+            "country" : "Spain",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61335916c12ff5370c772113",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Eduardo Sepulveda",
+            "country" : "Argentina",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61335b38c12ff5370c77212d",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Luke Durbridge",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61335b42c12ff5370c77212e",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Lucas Hamilton",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61335b49c12ff5370c77212f",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Richie Porte",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61335d18c12ff5370c772142",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Wout Van Aert",
+            "country" : "Belgium",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61335df9c12ff5370c772149",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Remco Evenepoel",
+            "country" : "Belgium",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61336437c12ff5370c772169",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Michael Woods",
+            "country" : "Canada",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61336657c12ff5370c77217e",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Wang Ruidong",
+            "country" : "China",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61336790c12ff5370c772189",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Josip Rumac",
+            "country" : "Croatia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "613369aec12ff5370c7721a0",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Michael Kukrle",
+            "country" : "Czech",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61336b8ac12ff5370c7721ad",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Kasper Asgreen",
+            "country" : "Denmark",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61336b94c12ff5370c7721ae",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Jakob Fuglsang",
+            "country" : "Denmark",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61336cbac12ff5370c7721bb",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Remi Cavagna",
+            "country" : "France",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61336cc3c12ff5370c7721bc",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "David Gaudu",
+            "country" : "France",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "613373a7c12ff5370c7721d6",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Nikias Arndt",
+            "country" : "Germany",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "613373b4c12ff5370c7721d7",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Maximilian Schachmann",
+            "country" : "Germany",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "613373bcc12ff5370c7721d8",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Emanuel Buchmann",
+            "country" : "Germany",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61337c06c12ff5370c7721e7",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Attila Valter",
+            "country" : "Hungary",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61337e24c12ff5370c7721f9",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Alberto Bettiol",
+            "country" : "Italy",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61337e32c12ff5370c7721fa",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Damiano Caruso",
+            "country" : "Italy",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61337f7ac12ff5370c7721fb",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Gianni Moscon",
+            "country" : "Italy",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "6133977dc12ff5370c77221f",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Yukiya Arashiro",
+            "country" : "Japan",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339788c12ff5370c772220",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Nariyuki Masuda",
+            "country" : "Japan",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339c58c12ff5370c77224e",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "George Bennett",
+            "country" : "NZ",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339c5fc12ff5370c77224f",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Patrick Bevin",
+            "country" : "NZ",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339d32c12ff5370c77225b",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Dylan van Baarle",
+            "country" : "Netherlands",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339d39c12ff5370c77225c",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Bauke Mollema",
+            "country" : "Netherlands",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339e13c12ff5370c772261",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Tobias Foss",
+            "country" : "Norway",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339e1bc12ff5370c772262",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Markus Hoelgaard",
+            "country" : "Norway",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339e22c12ff5370c772263",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Andreas Leknessund",
+            "country" : "Norway",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339f9fc12ff5370c772278",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Maciej Bodnar",
+            "country" : "Poland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339faac12ff5370c772279",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Rafal Majka",
+            "country" : "Poland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339fb3c12ff5370c77227a",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Michal Kwiatkowski",
+            "country" : "Poland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "6133a1ccc12ff5370c772292",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Pavel Sivakov",
+            "country" : "Russia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "6133a3a8c12ff5370c7722ab",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Marc Hirschi",
+            "country" : "Switzerland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "6133a3b1c12ff5370c7722ac",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Stefan Kung",
+            "country" : "Switzerland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "6133a3b7c12ff5370c7722ad",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Gino Mader",
+            "country" : "Switzerland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "6133a3c2c12ff5370c7722ae",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Michael Schar",
+            "country" : "Switzerland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "6133ca81c12ff5370c7722cf",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Brandon McNulty",
+            "country" : "USA",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "6133cc63c12ff5370c7722e0",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Adam Yates",
+            "country" : "UK",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "6133cc6bc12ff5370c7722e1",
+            "sport" : "cycling",
+            "gender" : "male",
+            "fullname" : "Simon Yates",
+            "country" : "UK",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "cycling",
+    "discipline" : "225km street race",
+    "type" : "individual",
+    "format" : "1xHH:MM:SS",
+    "dateFrom" : ISODate("2021-09-10T00:00:00.000Z"),
+    "dateTo" : ISODate("2021-09-11T00:00:00.000Z"),
+    "location" : "Tokyo Streets",
+    "gender" : "male",
+    "finished" : true,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("6133d83ac12ff5370c772317"),
+    "delegate" : [ 
+        "Zika Zikic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "613359cbc12ff5370c772116",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Santiago Grassi",
+            "country" : "Argentina",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61335bfec12ff5370c772139",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "David Morgan",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61335e5ec12ff5370c77214c",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Louis Croenen",
+            "country" : "Belgium",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61336006c12ff5370c772159",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Matheus Gonche",
+            "country" : "Brazil",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "6133600ec12ff5370c77215a",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Vinicius Lanza",
+            "country" : "Brazil",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "6133628dc12ff5370c772160",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Antani Ivanov",
+            "country" : "Bulgaria",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61336299c12ff5370c772161",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Josif Miladinov",
+            "country" : "Bulgaria",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61336492c12ff5370c77216d",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Joshua Liendo",
+            "country" : "Canada",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle", 
+                "100m butterfly"
+            ],
+            "_id" : "613367d7c12ff5370c77218d",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Nikola Miljenic",
+            "country" : "Croatia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61336905c12ff5370c772197",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Luis Vega Torres",
+            "country" : "Cuba",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61336a26c12ff5370c7721a5",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Jan Sefl",
+            "country" : "Czech",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61336d4ec12ff5370c7721c2",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Mehdy Metella",
+            "country" : "France",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61337479c12ff5370c7721e0",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Marius Kusch",
+            "country" : "Germany",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61337a99c12ff5370c7721e2",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Kristof Milak",
+            "country" : "Hungary",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61337c91c12ff5370c7721ec",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Szebasztian Szabo",
+            "country" : "Hungary",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61338015c12ff5370c772200",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Federico Burdisso",
+            "country" : "Italy",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "6133983ec12ff5370c77222a",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Naoki Mizunuma",
+            "country" : "Japan",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61339850c12ff5370c77222b",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Takeshi Kawamoto",
+            "country" : "Japan",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61339a03c12ff5370c772242",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Moon Seung-woo",
+            "country" : "Korea",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61339db2c12ff5370c77225f",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Nyls Korstanje",
+            "country" : "Netherlands",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61339e7ec12ff5370c772269",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Tomoe Zenimoto Hvas",
+            "country" : "Norway",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "6133a229c12ff5370c772296",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Andrey Minakov",
+            "country" : "Russia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle", 
+                "100m butterfly"
+            ],
+            "_id" : "6133a23bc12ff5370c772298",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Mikhail Vekovishchev",
+            "country" : "Russia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "6133a413c12ff5370c7722b3",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Noe Ponti",
+            "country" : "Switzerland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "6133c8cbc12ff5370c7722bb",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Caeleb Dressel",
+            "country" : "USA",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "6133caf5c12ff5370c7722d4",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Tom Shields",
+            "country" : "USA",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "swimming",
+    "discipline" : "100m butterfly",
+    "type" : "individual",
+    "format" : "1xSS,TT",
+    "dateFrom" : ISODate("2021-09-16T00:00:00.000Z"),
+    "dateTo" : ISODate("2021-09-18T00:00:00.000Z"),
+    "location" : "Sapporo Dome",
+    "gender" : "male",
+    "finished" : true,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("6133d854c12ff5370c772318"),
+    "delegate" : [ 
+        "Zika Zikic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "61335c0ec12ff5370c77213a",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Thomas Neill",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "61335c20c12ff5370c77213b",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Elijah Winnington",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "61335f28c12ff5370c77214f",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Fernando Scheffer",
+            "country" : "Brazil",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "61335ff9c12ff5370c772158",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Murilo Sartori",
+            "country" : "Brazil",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle", 
+                "100m butterfly"
+            ],
+            "_id" : "613367d7c12ff5370c77218d",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Nikola Miljenic",
+            "country" : "Croatia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "61336d40c12ff5370c7721c1",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Jonathan Atsu",
+            "country" : "France",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "61336d5cc12ff5370c7721c3",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Jordan Pothain",
+            "country" : "France",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "61337469c12ff5370c7721df",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Jacob Heidtmann",
+            "country" : "Germany",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "61337c79c12ff5370c7721eb",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Dominik Kozma",
+            "country" : "Hungary",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "6133985ec12ff5370c77222c",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Katsuhiro Matsumoto",
+            "country" : "Japan",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "613399f7c12ff5370c772241",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Hwang Sun-woo",
+            "country" : "Korea",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "6133a21fc12ff5370c772295",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Ivan Girev",
+            "country" : "Russia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "6133a232c12ff5370c772297",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Martin Malyutin",
+            "country" : "Russia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle", 
+                "100m butterfly"
+            ],
+            "_id" : "6133a23bc12ff5370c772298",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Mikhail Vekovishchev",
+            "country" : "Russia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "6133a33dc12ff5370c7722a5",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Robin Hanson",
+            "country" : "Sweden",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "6133a407c12ff5370c7722b2",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Antonio Djakovic",
+            "country" : "Switzerland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "6133a46ac12ff5370c7722b7",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Atuhaire Ambala",
+            "country" : "Uganda",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "6133cae8c12ff5370c7722d3",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Kieran Smith",
+            "country" : "USA",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "6133cb79c12ff5370c7722d8",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Tom Dean",
+            "country" : "UK",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "6133cb99c12ff5370c7722da",
+            "sport" : "swimming",
+            "gender" : "male",
+            "fullname" : "Duncan Scott",
+            "country" : "UK",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "swimming",
+    "discipline" : "200m freestyle",
+    "type" : "individual",
+    "format" : "1xMM:SS,TT",
+    "dateFrom" : ISODate("2021-09-19T00:00:00.000Z"),
+    "dateTo" : ISODate("2021-09-21T00:00:00.000Z"),
+    "location" : "Sapporo Dome",
+    "gender" : "male",
+    "finished" : true,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("6133d8b9c12ff5370c772319"),
+    "delegate" : [ 
+        "Zika Zikic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "613341bfc12ff5370c7720e5",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Pablo Carreno",
+            "country" : "Spain",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "61334fccc12ff5370c7720fb",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Novak Djokovic",
+            "country" : "Serbia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "61335138c12ff5370c7720fc",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Miomir Kecmanovic",
+            "country" : "Serbia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "613359f0c12ff5370c772118",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Diego Schwartzman",
+            "country" : "Argentina",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "61335c77c12ff5370c772140",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Max Purcell",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "61335f66c12ff5370c772153",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "João Menezes",
+            "country" : "Brazil",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "613364bbc12ff5370c77216f",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Félix Auger-Aliassime",
+            "country" : "Canada",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "double", 
+                "single"
+            ],
+            "_id" : "61336733c12ff5370c772183",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Marin Cilic",
+            "country" : "Croatia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "61336a48c12ff5370c7721a7",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Tomas Machac",
+            "country" : "Czech",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "61336d88c12ff5370c7721c6",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Jeremy Chardy",
+            "country" : "France",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "61336d9cc12ff5370c7721c7",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Gael Monfils",
+            "country" : "France",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "61336daac12ff5370c7721c8",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Gilles Simon",
+            "country" : "France",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "61336db1c12ff5370c7721c9",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Ugo Humbert",
+            "country" : "France",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "6133731fc12ff5370c7721ce",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Alexander Zverev",
+            "country" : "Germany",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "6133733dc12ff5370c7721cf",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Dominik Koepfer",
+            "country" : "Germany",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "6133734ac12ff5370c7721d0",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Jan-Lennard Struff",
+            "country" : "Germany",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "61338128c12ff5370c772203",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Fabio Fognini",
+            "country" : "Italy",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "61338132c12ff5370c772204",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Lorenzo Sonego",
+            "country" : "Italy",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "double", 
+                "single"
+            ],
+            "_id" : "6133813cc12ff5370c772205",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Lorenzo Musetti",
+            "country" : "Italy",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "61339881c12ff5370c77222d",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Kei Nishikori",
+            "country" : "Japan",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "61339a35c12ff5370c772245",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Kwon Soon-woo",
+            "country" : "Korea",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "6133a062c12ff5370c772283",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Hubert Hurkacz",
+            "country" : "Poland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "6133a110c12ff5370c772286",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Andrey Rublev",
+            "country" : "Russia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "6133a162c12ff5370c77228b",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Karen Khachanov",
+            "country" : "Russia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "6133a168c12ff5370c77228c",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Daniil Medvedev",
+            "country" : "Russia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "6133cb2fc12ff5370c7722d7",
+            "sport" : "tennis",
+            "gender" : "male",
+            "fullname" : "Marcos Giron",
+            "country" : "USA",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "tennis",
+    "discipline" : "single",
+    "type" : "individual",
+    "format" : "X:Y",
+    "dateFrom" : ISODate("2021-09-15T00:00:00.000Z"),
+    "dateTo" : ISODate("2021-09-22T00:00:00.000Z"),
+    "location" : "Tokyo Metropolitan Gymnasium",
+    "gender" : "male",
+    "finished" : true,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("6133d8d5c12ff5370c77231a"),
+    "delegate" : [ 
+        "Marko Markovic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "61335142c12ff5370c7720fd",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Ivana Jorovic",
+            "country" : "Serbia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "613351d0c12ff5370c7720ff",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Nina Stojanovic",
+            "country" : "Serbia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "61335a08c12ff5370c772119",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Nadia Podoroska",
+            "country" : "Argentina",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "61335c88c12ff5370c772141",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Ajla Tomljanović",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "61335e82c12ff5370c77214e",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Alison Van Uytvanck",
+            "country" : "Belgium",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "613364cec12ff5370c772170",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Leylah Annie Fernandez",
+            "country" : "Canada",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "6133682fc12ff5370c77218e",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Donna Vekic",
+            "country" : "Croatia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "61336a5cc12ff5370c7721a8",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Marketa Vondrousova",
+            "country" : "Czech",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "61336a72c12ff5370c7721a9",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Barbora Krejcikova",
+            "country" : "Czech",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "61336a9ac12ff5370c7721ab",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Karolina Pliskova",
+            "country" : "Czech",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "61336dc7c12ff5370c7721ca",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Fiona Ferro",
+            "country" : "France",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "61336ddac12ff5370c7721cb",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Alize Cornet",
+            "country" : "France",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "61336decc12ff5370c7721cc",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Caroline Garcia",
+            "country" : "France",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "double", 
+                "single"
+            ],
+            "_id" : "61336df6c12ff5370c7721cd",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Kristina Mladenovic",
+            "country" : "France",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "6133735ac12ff5370c7721d1",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Anna-Lena Friedsam",
+            "country" : "Germany",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "61338151c12ff5370c772207",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Camila Giorgi",
+            "country" : "Italy",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single"
+            ],
+            "_id" : "613398a0c12ff5370c77222e",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Naomi Osaka",
+            "country" : "Japan",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "double", 
+                "single"
+            ],
+            "_id" : "6133a121c12ff5370c772287",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Anastasia Pavlyuchenkova",
+            "country" : "Russia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "single", 
+                "double"
+            ],
+            "_id" : "6133a421c12ff5370c7722b4",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Belinda Bencic",
+            "country" : "Switzerland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "double", 
+                "single"
+            ],
+            "_id" : "6133a430c12ff5370c7722b5",
+            "sport" : "tennis",
+            "gender" : "female",
+            "fullname" : "Viktorija Golubic",
+            "country" : "Switzerland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "tennis",
+    "discipline" : "single",
+    "type" : "individual",
+    "format" : "X:Y",
+    "dateFrom" : ISODate("2021-09-15T00:00:00.000Z"),
+    "dateTo" : ISODate("2021-09-22T00:00:00.000Z"),
+    "location" : "Tokyo Metropolitan Gymnasium",
+    "gender" : "female",
+    "finished" : false,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("6133d900c12ff5370c77231b"),
+    "delegate" : [ 
+        "Marko Markovic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61335a68c12ff5370c77211d",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Hana Basic",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61335fa6c12ff5370c772156",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Rosângela Santos",
+            "country" : "Brazil",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m", 
+                "200m"
+            ],
+            "_id" : "6133622ec12ff5370c77215c",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Inna Eftimova",
+            "country" : "Bulgaria",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "613363ffc12ff5370c772166",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Khamica Bingham",
+            "country" : "Canada",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m", 
+                "200m"
+            ],
+            "_id" : "61336408c12ff5370c772167",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Crystal Emmanuel",
+            "country" : "Canada",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "6133663cc12ff5370c77217d",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Ge Manqi",
+            "country" : "China",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61337389c12ff5370c7721d4",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Alexandra Burghardt",
+            "country" : "Germany",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61337d15c12ff5370c7721f0",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Farzaneh Fasihi",
+            "country" : "Iran",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61337e0ec12ff5370c7721f8",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Anna Bongiorni",
+            "country" : "Italy",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m", 
+                "200m"
+            ],
+            "_id" : "61338253c12ff5370c772208",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Elaine Thompson Herah",
+            "country" : "Jamaica",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m", 
+                "200m"
+            ],
+            "_id" : "61338265c12ff5370c772209",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Shelly-Ann Fraser-Pryce",
+            "country" : "Jamaica",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "6133826dc12ff5370c77220a",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Shericka Jackson",
+            "country" : "Jamaica",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "61339ce7c12ff5370c772256",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Marije van Hunenstijn",
+            "country" : "Netherlands",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "6133a383c12ff5370c7722a8",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Ajla Del Ponte",
+            "country" : "Switzerland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m", 
+                "200m"
+            ],
+            "_id" : "6133a38ac12ff5370c7722a9",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Mujinga Kambundji",
+            "country" : "Switzerland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m"
+            ],
+            "_id" : "6133cbd2c12ff5370c7722dc",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Daryll Neita",
+            "country" : "UK",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "athletics",
+    "discipline" : "100m",
+    "type" : "individual",
+    "format" : "1xSS,TT",
+    "dateFrom" : ISODate("2021-09-09T00:00:00.000Z"),
+    "dateTo" : ISODate("2021-09-11T00:00:00.000Z"),
+    "location" : "Tokyo Metropolitan Gymnasium",
+    "gender" : "female",
+    "finished" : false,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("6133d91dc12ff5370c77231c"),
+    "delegate" : [ 
+        "Marko Markovic"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "61335aeac12ff5370c772127",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Nina Kennedy",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "61335af3c12ff5370c772128",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Liz Parnov",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "6133a183c12ff5370c77228e",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Anzhelika Sidorova",
+            "country" : "Russia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "6133a39dc12ff5370c7722aa",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Angelica Moser",
+            "country" : "Switzerland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "6133c8f9c12ff5370c7722be",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Katie Nageotte",
+            "country" : "USA",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "6133ca3cc12ff5370c7722cd",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "KC Lightfoot",
+            "country" : "USA",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "pole vault"
+            ],
+            "_id" : "6133cbb6c12ff5370c7722db",
+            "sport" : "athletics",
+            "gender" : "female",
+            "fullname" : "Holly Bradshaw",
+            "country" : "UK",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "athletics",
+    "discipline" : "pole vault",
+    "type" : "individual",
+    "format" : "3xM,CM",
+    "dateFrom" : ISODate("2021-09-14T00:00:00.000Z"),
+    "dateTo" : ISODate("2021-09-16T00:00:00.000Z"),
+    "location" : "Sapporo Dome",
+    "gender" : "female",
+    "finished" : false,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("6133d94cc12ff5370c77231d"),
+    "delegate" : [ 
+        "Tiger Woods"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61335c37c12ff5370c77213c",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Emma McKeon",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61335c48c12ff5370c77213d",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Brianna Throssell",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61336352c12ff5370c772162",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Maggie Mac Neil",
+            "country" : "Canada",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "613364a7c12ff5370c77216e",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Katerine Savard",
+            "country" : "Canada",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "6133657cc12ff5370c772176",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Zhang Yufei",
+            "country" : "China",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61336be0c12ff5370c7721b3",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Emilie Beckmann",
+            "country" : "Denmark",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61336d79c12ff5370c7721c5",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Marie Wattel",
+            "country" : "France",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61337cabc12ff5370c7721ed",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Dalma Sebestyen",
+            "country" : "Hungary",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "6133810fc12ff5370c772201",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Ilaria Bianchi",
+            "country" : "Italy",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "6133811bc12ff5370c772202",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Elena di Liddo",
+            "country" : "Italy",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "61339a0bc12ff5370c772243",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "An Se-hyeon",
+            "country" : "Korea",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "6133a257c12ff5370c77229a",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Svetlana Chimrova",
+            "country" : "Russia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "6133a26dc12ff5370c77229c",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Arina Surkova",
+            "country" : "Russia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "6133a34cc12ff5370c7722a6",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Louise Hansson",
+            "country" : "Sweden",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "6133a358c12ff5370c7722a7",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Sarah Sjostrom",
+            "country" : "Sweden",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "100m butterfly"
+            ],
+            "_id" : "6133cb0fc12ff5370c7722d6",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Torri Huske",
+            "country" : "USA",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "swimming",
+    "discipline" : "100m butterfly",
+    "type" : "individual",
+    "format" : "1xSS,TT",
+    "dateFrom" : ISODate("2021-09-17T00:00:00.000Z"),
+    "dateTo" : ISODate("2021-09-18T00:00:00.000Z"),
+    "location" : "Sapporo Dome",
+    "gender" : "female",
+    "finished" : false,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("6133d95dc12ff5370c77231e"),
+    "delegate" : [ 
+        "Tiger Woods"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "61335c53c12ff5370c77213e",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Ariarne Titmus",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "61335c5cc12ff5370c77213f",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Madison Wilson",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "61336380c12ff5370c772164",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Penny Oleksiak",
+            "country" : "Canada",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "613366acc12ff5370c77217f",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Yang Junxuan",
+            "country" : "China",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "61336a36c12ff5370c7721a6",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Barbora Seemanova",
+            "country" : "Czech",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "61336d6dc12ff5370c7721c4",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Charlotte Bonnet",
+            "country" : "France",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "61337494c12ff5370c7721e1",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Isabel Gose",
+            "country" : "Germany",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "61339c82c12ff5370c772250",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Erika Fairweather",
+            "country" : "NZ",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "6133a24ac12ff5370c772299",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Veronika Andrusenko",
+            "country" : "Russia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "6133a264c12ff5370c77229b",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Valeriya Salamatina",
+            "country" : "Russia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "200m freestyle"
+            ],
+            "_id" : "6133cb03c12ff5370c7722d5",
+            "sport" : "swimming",
+            "gender" : "female",
+            "fullname" : "Katie Ledecky",
+            "country" : "USA",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "swimming",
+    "discipline" : "200m freestyle",
+    "type" : "individual",
+    "format" : "1xMM:SS,TT",
+    "dateFrom" : ISODate("2021-09-15T00:00:00.000Z"),
+    "dateTo" : ISODate("2021-09-18T00:00:00.000Z"),
+    "location" : "Sapporo Dome",
+    "gender" : "female",
+    "finished" : false,
+    "__v" : 0
+}
+{
+    "_id" : ObjectId("6133d992c12ff5370c77231f"),
+    "delegate" : [ 
+        "Tiger Woods"
+    ],
+    "teams" : [ 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "613340e3c12ff5370c7720e3",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Mavi Garcia",
+            "country" : "Spain",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61334100c12ff5370c7720e4",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Ane Santesteban",
+            "country" : "Spain",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61335b53c12ff5370c772130",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Grace Brown",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61335b5bc12ff5370c772131",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Tiffany Cromwell",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61335b62c12ff5370c772132",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Sarah Gigante",
+            "country" : "Australia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61335e05c12ff5370c77214a",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Lotte Kopecky",
+            "country" : "Belgium",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61336441c12ff5370c77216a",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Karol-Ann Canuel",
+            "country" : "Canada",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "613368edc12ff5370c772196",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Arlenis Sierra",
+            "country" : "Cuba",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61336ba1c12ff5370c7721af",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Cecilie Uttrup Ludwig",
+            "country" : "Denmark",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61336ccbc12ff5370c7721bd",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Juliette Labous",
+            "country" : "France",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "613373c8c12ff5370c7721d9",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Lisa Brennauer",
+            "country" : "Germany",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "613373cdc12ff5370c7721da",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Lisa Klein",
+            "country" : "Germany",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "613373d6c12ff5370c7721db",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Liane Lippert",
+            "country" : "Germany",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61337dd9c12ff5370c7721f6",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Elisa Longo Borghini",
+            "country" : "Italy",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61337f88c12ff5370c7721fc",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Marta Cavalli",
+            "country" : "Italy",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339790c12ff5370c772221",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Hiromi Kaneko",
+            "country" : "Japan",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "6133996cc12ff5370c772236",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Na Ah-reum",
+            "country" : "Korea",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339d44c12ff5370c77225d",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Annemiek van Vleuten",
+            "country" : "Netherlands",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339d4ec12ff5370c77225e",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Marianne Vos",
+            "country" : "Netherlands",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339e2ec12ff5370c772264",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Katrine Aalerud",
+            "country" : "Norway",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339fbcc12ff5370c77227b",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Marta Lach",
+            "country" : "Poland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339fc5c12ff5370c77227c",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Katarzyna Niewiadoma",
+            "country" : "Poland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "61339fd1c12ff5370c77227d",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Anna Plichta",
+            "country" : "Poland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "6133a1d5c12ff5370c772293",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Tamara Dronova",
+            "country" : "Russia",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "6133a325c12ff5370c7722a4",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Emilia Fahlin",
+            "country" : "Sweden",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "6133a3cac12ff5370c7722af",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Marlen Reusser",
+            "country" : "Switzerland",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "6133ca96c12ff5370c7722d0",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Coryn Rivera",
+            "country" : "USA",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }, 
+        {
+            "discipline" : [ 
+                "225km street race"
+            ],
+            "_id" : "6133cc78c12ff5370c7722e2",
+            "sport" : "cycling",
+            "gender" : "female",
+            "fullname" : "Elizabeth Deignan",
+            "country" : "UK",
+            "index" : 0,
+            "medals" : 0,
+            "__v" : 0
+        }
+    ],
+    "sport" : "cycling",
+    "discipline" : "225km street race",
+    "type" : "individual",
+    "format" : "1xHH:MM:SS",
+    "dateFrom" : ISODate("2021-09-16T00:00:00.000Z"),
+    "dateTo" : ISODate("2021-09-17T00:00:00.000Z"),
+    "location" : "Tokyo Streets",
+    "gender" : "female",
+    "finished" : false,
+    "__v" : 0
+}

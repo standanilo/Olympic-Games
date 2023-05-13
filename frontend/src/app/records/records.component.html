@@ -1,0 +1,84 @@
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="#">Menu</a></li>
+      <li class="breadcrumb-item active" aria-current="page">Records</li>
+    </ol>
+  </nav>
+<table class="table1">
+    <tr>
+        <td>
+            <div class="centered">WOMEN</div>
+            <table class="styled-table">
+                <thead>
+                    <tr>
+                        <th>Discipline</th>
+                        <th>Result</th>
+                        <th>Athlete</th>
+                        <th>Country</th>
+                        <th>Venue</th>
+                        <th>Year</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor='let f of females'>
+                        <td>
+                            {{f.discipline}}
+                        </td>
+                        <td>
+                            {{f.result}}
+                        </td>
+                        <td>
+                            {{f.athlete}}
+                        </td>
+                        <td>
+                            {{f.country}}
+                        </td>
+                        <td>
+                            {{f.venue}}
+                        </td>
+                        <td>
+                            {{f.year}}
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </td>
+        <td>
+            <div class="centered">MEN</div>
+            <table class="styled-table">
+                <thead>
+                    <tr>
+                        <th>Discipline</th>
+                        <th>Result</th>
+                        <th>Athlete</th>
+                        <th>Country</th>
+                        <th>Venue</th>
+                        <th>Year</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor='let m of males'>
+                        <td>
+                            {{m.discipline}}
+                        </td>
+                        <td>
+                            {{m.result}}
+                        </td>
+                        <td>
+                            {{m.athlete}}
+                        </td>
+                        <td>
+                            {{m.country}}
+                        </td>
+                        <td>
+                            {{m.venue}}
+                        </td>
+                        <td>
+                            {{m.year}}
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+</table>

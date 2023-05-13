@@ -1,0 +1,114 @@
+<header class="header1">
+  <img src="../assets/logo.png" class="logo">
+  <div class="header_middle">TOKYO 2020</div>
+</header>
+<div class="menu1">
+  <ul class="list3">
+    <li>
+      <a class="big" routerLink='menu'>MENU</a>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+      <a class="link1" routerLink="countries">COUNTRIES</a>
+    </li>
+    <li>
+      <a class="link1" routerLink="medals">MEDALS</a>
+    </li>
+    <li>
+      <a class="link1" routerLink="athletes">ATHLETES</a>
+    </li>
+    <li *ngIf="this.type()=='organizer'">
+      <a class="link1" routerLink="sports">ADD SPORTS</a>
+    </li>
+    <li *ngIf="this.type()=='organizer'">
+      <a class="link1" routerLink="disciplines">ADD DISCIPLINES</a>
+    </li>
+    <li *ngIf="this.type()=='organizer'">
+      <a class="link1" routerLink="competitions">ADD COMPETITION</a>
+    </li>
+    <li *ngIf="this.type()=='organizer'">
+      <a class="link1" routerLink="requests">REGISTER REQUESTS</a>
+    </li>
+    <li *ngIf="this.type()=='organizer'">
+      <a class="link1" routerLink="records">RECORDS</a>
+    </li>
+    <li *ngIf="this.type()=='comp_delegate'">
+      <a class="link1" routerLink="schedule">SET SCHEDULE</a>
+    </li>
+    <li *ngIf="this.type()=='comp_delegate'">
+      <a class="link1" routerLink="results">ADD RESULTS</a>
+    </li>
+    <li *ngIf="this.type()=='nat_delegate'">
+      <a class="link1" routerLink="teams">TEAM REGISTRATION</a>
+    </li>
+    <li *ngIf="this.type()=='nat_delegate'">
+      <a class="link1" routerLink="members">SEE MEMBERS</a>
+    </li>
+  </ul>
+  <ul class="list2">
+    <li *ngIf='this.loggedIn'>
+      <button class="button1" (click)="this.logout()" routerLink="logout">LOGOUT</button>
+    </li>
+    <li *ngIf='this.loggedIn==null' >
+      <button class="button1"routerLink="register">REGISTER</button>
+    </li>
+    <li *ngIf='this.loggedIn==null' >
+      <button class="button1"routerLink="login">LOGIN</button>
+    </li>
+    <li>
+      <button class="button1" routerLink="changepassword">CHANGE PASSWORD</button>
+    </li>
+  </ul>
+</div>
+<router-outlet></router-outlet>
+<footer class="footer1">
+  <ul class="list1">
+    <li>
+      <a class="link1" href="https://supporttokyo2020.olympics.com/hc/en-us">FAQ</a>
+    </li>
+    <li>
+      <a class="link1" href="https://olympics.com/tokyo-2020/en/utilities/impressum">ABOUT US</a>
+    </li>
+    <li>
+      <a class="link1" href="https://olympics.com/tokyo-2020/en/utilities/contact-us">CONTACT US</a>
+    </li>
+    <li>
+      <a class="link1" href="https://olympics.com/tokyo-2020/en/utilities/web-accessibility">WEB ACCESSIBILITY</a>
+    </li>
+    <li>
+      <a class="link1" href="https://olympics.com/tokyo-2020/en/utilities/link">LINKS</a>
+    </li>
+    <li>
+      <a class="link1" href="https://olympics.com/en/terms-of-service">TERMS OF SERVICE</a>
+    </li>
+    <li>
+      <a class="link1" href="https://olympics.com/en/privacy-policy">PRIVACY POLICY</a>
+    </li>
+    <li>
+      <a class="link1" href="https://olympics.com/en/cookie-policy">COOKIE POLICY</a>
+    </li>
+    <li>
+      <a class="link1" href="https://olympics.com/tokyo-2020/en/utilities/site-map">SITE MAP</a>
+    </li>
+    <li>
+      <a class="link1" href="https://media.tokyo2020.org/en/">MEDIA</a>
+    </li>
+  </ul>
+  <ul class="list2">
+    <li>
+      <a href="https://www.facebook.com/tokyo2020/" target="_blank"><img class="logo_footer" src="../assets/facebook.png"></a>
+    </li>
+    <li>
+      <a href="https://twitter.com/Tokyo2020" target="_blank"><img class="logo_footer" src="../assets/twitter.png"></a>
+    </li>
+    <li>
+      <a href="https://www.instagram.com/tokyo2020/" target="_blank"><img class="logo_footer" src="../assets/instagram.png"></a>
+    </li>
+    <li>
+      <a href="https://www.youtube.com/tokyo2020" target="_blank"><img class="logo_footer" src="../assets/youtube.png"></a>
+    </li>
+  </ul>
+</footer>

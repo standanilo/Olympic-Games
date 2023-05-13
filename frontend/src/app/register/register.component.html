@@ -1,0 +1,62 @@
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="#">Menu</a></li>
+      <li class="breadcrumb-item active" aria-current="page">Register</li>
+    </ol>
+</nav>
+<form [formGroup]="registerForm" (ngSubmit)='register()'>
+    <table class="table1">
+        <tr>
+            <td>Username:</td>
+            <td>
+                <input class='textbox' type='text' formControlName="username" name='username'>
+            </td>
+        </tr>
+        <tr>
+            <td>Password:</td>
+            <td>
+                <input class='textbox' type='password' formControlName="password" name='password'>
+                <span class='red' *ngIf='password.invalid && password.touched'>  length: 8-12, a-z: 3+, A-Z: 1+, 0-9: 2+, special: 2+</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Firstname:</td>
+            <td>
+                <input class='textbox' type='text' formControlName="firstname" name='mail'>
+            </td>
+        </tr>
+        <tr>
+            <td>Lastname:</td>
+            <td>
+                <input class='textbox' type='text' formControlName="lastname" name='mail'>
+            </td>
+        </tr>
+        <tr>
+            <td>Country:</td>
+            <td>
+                <input class='textbox' type='text' formControlName="country" name='mail'>
+            </td>
+        </tr>
+        <tr>
+            <td>Mail:</td>
+            <td>
+                <input class='textbox' type='text' formControlName="mail" name='mail'>
+            </td>
+        </tr>
+        <tr>
+            <td>Type:</td>
+            <td>
+                <input type="radio" name='type' formControlName="type" value='nat_delegate' required> Head of the national delegation <br/>
+                <input type="radio" name='type' formControlName="type" value='comp_delegate' required> Competition delegate
+            </td>
+        </tr>
+        <tr>
+            <td colspan='2'>
+                <button type="submit" class="button1" [disabled]='registerForm.invalid'>Register</button>
+            </td>
+        </tr>
+    </table>
+</form>
+<div class="red">
+    {{message}}
+</div>

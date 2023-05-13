@@ -1,0 +1,38 @@
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="#">Menu</a></li>
+      <li class="breadcrumb-item active" aria-current="page">Countries</li>
+    </ol>
+</nav>
+<div class="div1">
+    <table class="styled-table">
+        <thead>
+            <tr>
+                <th>Flag</th>
+                <th>Country</th>
+                <th>Number of athletes</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor='let c of countries | paginate: { itemsPerPage: n, currentPage: p }'>
+                <td>
+                    <img width='50px' height='30px' src='assets/{{c.name}}.png'>
+                </td>
+                <td>
+                    {{c.name}}
+                </td>
+                <td>
+                    {{c.numOfAthletes}}
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <pagination-controls (pageChange)="p = $event" autoHide="true"></pagination-controls>
+    <span class="span1">Items per page 
+        <button class="myButton" (click)="n=10">10</button>
+        <button class="myButton" (click)="n=20">20</button>
+        <button class="myButton" (click)="n=50">50</button>
+        <button class="myButton" (click)="n=100">100</button>
+    </span>
+    
+</div>

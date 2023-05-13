@@ -1,0 +1,25 @@
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="#">Menu</a></li>
+      <li class="breadcrumb-item active" aria-current="page">Add sport</li>
+    </ol>
+</nav>
+<form>
+    <table class='table1'>
+        <tr>
+            <td>Add sport:</td>
+            <td>
+                <input type='text' class="textbox" name='sport' [(ngModel)]='sport'>
+            </td>
+        </tr>
+        <tr>
+            <td colspan='2'>
+                <button class='button1' (click)='addSport()'>Add</button>
+            </td>
+        </tr>
+    </table>
+    <div *ngIf='message' class='red'>
+        {{message}}
+    </div>
+    <br/>
+</form>
