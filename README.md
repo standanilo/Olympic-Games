@@ -1,2 +1,2 @@
-# Olympic-Games
+# olympic-games
 Olympic Games website 
